@@ -1,0 +1,31 @@
+@media (max-width: 991px) {
+  .rtl #mobile-header > .toggle {
+    left: 1.5em;
+    right: auto;
+  }
+  .rtl #dt-menu,
+  .rtl #dt-menu .sub-nav {
+    right: -270px;
+    left: auto;
+  }
+  /*
+  .rtl #main-nav-check:checked ~ .top-head #top-bar {
+    right: -270px;
+    width: auto;
+  }
+*/
+  .rtl #main-nav-check:checked ~ .top-head #dt-menu,
+  .rtl #dt-menu .sub-nav-check:checked ~ #fof-sub,
+  .rtl #dt-menu .sub-nav-check:checked ~ ul[id*='fof-sub-'] {
+    -webkit-transform: translate(-270px, 0);
+    -moz-transform: translate(-270px, 0);
+    -ms-transform: translate(-270px, 0);
+    -o-transform: translate(-270px, 0);
+    transform: translate(-270px, 0);
+    -webkit-transition: transform 350ms cubic-bezier(0.005, 0.975, 0.73, 1);
+    -moz-transition: transform 350ms cubic-bezier(0.005, 0.975, 0.73, 1);
+    -o-transition: transform 350ms cubic-bezier(0.005, 0.975, 0.73, 1);
+    -ms-transition: transform 350ms cubic-bezier(0.005, 0.975, 0.73, 1);
+    transition: transform 350ms cubic-bezier(0.005, 0.975, 0.73, 1);
+  }
+}

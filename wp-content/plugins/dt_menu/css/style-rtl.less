@@ -1,0 +1,26 @@
+@import "../css/prefixer.less";
+
+@media (max-width: 991px) {
+  .rtl #mobile-header > .toggle {
+    left: 1.5em;
+    right:auto;
+  }
+
+  .rtl #dt-menu,
+  .rtl #dt-menu .sub-nav {
+    right: -270px;
+    left: auto;
+  }
+/*
+  .rtl #main-nav-check:checked ~ .top-head #top-bar {
+    right: -270px;
+    width: auto;
+  }
+*/
+  .rtl #main-nav-check:checked ~ .top-head #dt-menu,
+  .rtl #dt-menu .sub-nav-check:checked ~ #fof-sub,
+  .rtl #dt-menu .sub-nav-check:checked ~ ul[id*='fof-sub-'] {
+    .transform(translate(-270px, 0));
+    .transition(transform 350ms cubic-bezier(0.005, 0.975, 0.73, 1));
+  }
+}

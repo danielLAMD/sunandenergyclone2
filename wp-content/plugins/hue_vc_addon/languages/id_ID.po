@@ -1,0 +1,1757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hue VC Addon\n"
+"POT-Creation-Date: 2017-02-28 14:41+0700\n"
+"PO-Revision-Date: 2017-02-28 15:13+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: translate;__;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;"
+"esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural\n"
+"Language: id_ID\n"
+"X-Poedit-SearchPath-0: ../hue_vc_addon\n"
+"X-Poedit-SearchPathExcluded-0: ../hue_vc_addon/js\n"
+
+#: ../hue_vc_addon/hue_vc_addon.php:80
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:82
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:101 ../hue_vc_addon/lib/map.php:3163
+msgid "Select"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:102
+msgid "Insert Media"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:103
+msgid "Select Media"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:109
+msgid "Search Icon"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:157
+msgid "Expand section width"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:160
+msgid "Expand Column"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:160
+msgid "Expand Background"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:161
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:163 ../hue_vc_addon/hue_vc_addon.php:172
+#: ../hue_vc_addon/hue_vc_addon.php:196 ../hue_vc_addon/hue_vc_addon.php:206
+#: ../hue_vc_addon/hue_vc_addon.php:214 ../hue_vc_addon/hue_vc_addon.php:222
+#: ../hue_vc_addon/hue_vc_addon.php:231 ../hue_vc_addon/hue_vc_addon.php:245
+#: ../hue_vc_addon/hue_vc_addon.php:253 ../hue_vc_addon/hue_vc_addon.php:261
+#: ../hue_vc_addon/hue_vc_addon.php:295
+msgid "Extended options"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:168
+msgid "Background Type"
+msgstr "Jenis Latar"
+
+#: ../hue_vc_addon/hue_vc_addon.php:170 ../hue_vc_addon/lib/map.old.php:1603
+#: ../hue_vc_addon/lib/map.php:1690
+msgid "Image"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:170
+msgid "Video"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:192
+msgid "Video Source"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:194
+msgid "Local Server"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:194
+msgid "Youtube/Vimeo"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:203 ../hue_vc_addon/hue_vc_addon.php:242
+msgid "Background Video (mp4)"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:211 ../hue_vc_addon/hue_vc_addon.php:250
+msgid "Background Video (webm)"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:219 ../hue_vc_addon/hue_vc_addon.php:258
+msgid "Background Image"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:229
+msgid "Video link"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:232
+msgid "Add YouTube/Vimeo link"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:269 ../hue_vc_addon/hue_vc_addon.php:277
+msgid "Extra id"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:272 ../hue_vc_addon/hue_vc_addon.php:280
+msgid ""
+"If you wish to add anchor id to this row. Anchor id may used as link like "
+"href=\"#yourid\""
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:284
+msgid "Background Style"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:288
+msgid "No Repeat"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:289
+msgid "Cover"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:290
+msgid "Contain"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:291
+msgid "Repeat"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:292
+msgid "Parallax"
+msgstr ""
+
+#: ../hue_vc_addon/hue_vc_addon.php:293
+msgid "Fixed"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:16 ../hue_vc_addon/lib/map.php:16
+msgid "Icon Box"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:21 ../hue_vc_addon/lib/map.old.php:163
+#: ../hue_vc_addon/lib/map.old.php:481 ../hue_vc_addon/lib/map.old.php:581
+#: ../hue_vc_addon/lib/map.old.php:820 ../hue_vc_addon/lib/map.old.php:880
+#: ../hue_vc_addon/lib/map.old.php:1174 ../hue_vc_addon/lib/map.old.php:1579
+#: ../hue_vc_addon/lib/map.old.php:1711 ../hue_vc_addon/lib/map.old.php:1761
+#: ../hue_vc_addon/lib/map.old.php:1820 ../hue_vc_addon/lib/map.old.php:2025
+#: ../hue_vc_addon/lib/map.old.php:2138 ../hue_vc_addon/lib/map.old.php:2189
+#: ../hue_vc_addon/lib/map.old.php:2288 ../hue_vc_addon/lib/map.old.php:2326
+#: ../hue_vc_addon/lib/map.old.php:2609 ../hue_vc_addon/lib/map.old.php:2763
+#: ../hue_vc_addon/lib/map.php:22 ../hue_vc_addon/lib/map.php:161
+#: ../hue_vc_addon/lib/map.php:526 ../hue_vc_addon/lib/map.php:624
+#: ../hue_vc_addon/lib/map.php:868 ../hue_vc_addon/lib/map.php:928
+#: ../hue_vc_addon/lib/map.php:1219 ../hue_vc_addon/lib/map.php:1657
+#: ../hue_vc_addon/lib/map.php:1798 ../hue_vc_addon/lib/map.php:1859
+#: ../hue_vc_addon/lib/map.php:2048 ../hue_vc_addon/lib/map.php:2150
+#: ../hue_vc_addon/lib/map.php:2200 ../hue_vc_addon/lib/map.php:2299
+#: ../hue_vc_addon/lib/map.php:2336 ../hue_vc_addon/lib/map.php:2614
+#: ../hue_vc_addon/lib/map.php:2768 ../hue_vc_addon/lib/map.php:2865
+#: ../hue_vc_addon/lib/map.php:2963 ../hue_vc_addon/lib/map.php:2994
+#: ../hue_vc_addon/lib/map.php:3201 ../hue_vc_addon/lib/map.php:3228
+#: ../hue_vc_addon/lib/map.php:3386 ../hue_vc_addon/lib/map.php:3535
+msgid "deTheme"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:22 ../hue_vc_addon/lib/map.php:21
+msgid "Shows icon with various layouts"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:27 ../hue_vc_addon/lib/map.old.php:884
+#: ../hue_vc_addon/lib/map.old.php:1788 ../hue_vc_addon/lib/map.old.php:2030
+#: ../hue_vc_addon/lib/map.php:25 ../hue_vc_addon/lib/map.php:931
+msgid "Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:32 ../hue_vc_addon/lib/map.old.php:888
+#: ../hue_vc_addon/lib/map.old.php:1792 ../hue_vc_addon/lib/map.old.php:2034
+#: ../hue_vc_addon/lib/map.php:30 ../hue_vc_addon/lib/map.php:935
+#: ../hue_vc_addon/lib/map.php:3283 ../hue_vc_addon/lib/map.php:3293
+msgid "Select the icon to be displayed by clicking the icon."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:37 ../hue_vc_addon/lib/map.php:35
+msgid "Icon Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:45 ../hue_vc_addon/lib/map.php:43
+#: ../hue_vc_addon/lib/map.php:3306
+msgid "Icon Line Height"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:52 ../hue_vc_addon/lib/map.old.php:179
+#: ../hue_vc_addon/lib/map.old.php:1765 ../hue_vc_addon/lib/map.php:50
+#: ../hue_vc_addon/lib/map.php:174 ../hue_vc_addon/lib/map.php:1661
+#: ../hue_vc_addon/lib/map.php:1863 ../hue_vc_addon/lib/map.php:3389
+msgid "Layout type"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:58 ../hue_vc_addon/lib/map.php:56
+msgid "Type 1: Squared Border Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:59 ../hue_vc_addon/lib/map.php:57
+msgid "Type 2: Circled Border Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:60 ../hue_vc_addon/lib/map.php:58
+msgid "Type 3: Squared Border Icon with Counter"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:61 ../hue_vc_addon/lib/map.php:59
+msgid "Type 4: Squared Border Box"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:62 ../hue_vc_addon/lib/map.php:60
+msgid "Type 5: Circled Border and Transparent Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:63 ../hue_vc_addon/lib/map.php:61
+msgid "Type 6: Squared Box With Hover Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:64 ../hue_vc_addon/lib/map.php:62
+msgid "Type 7: Circled boxes Icon On Left"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:65 ../hue_vc_addon/lib/map.php:63
+msgid "Type 8: Circled boxes Icon On Right"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:69 ../hue_vc_addon/lib/map.php:67
+msgid "Choose the icon layout you want to use."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:72 ../hue_vc_addon/lib/map.php:70
+msgid "Iconbox heading"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:79 ../hue_vc_addon/lib/map.php:77
+msgid "Iconbox Heading Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:86 ../hue_vc_addon/lib/map.php:84
+msgid "Iconbox Counter Number"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:90 ../hue_vc_addon/lib/map.php:88
+msgid "A value will count-up."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:95 ../hue_vc_addon/lib/map.php:93
+msgid "Iconbox text"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:99 ../hue_vc_addon/lib/map.php:97
+msgid "Text info"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:103 ../hue_vc_addon/lib/map.php:101
+msgid "Link"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:110 ../hue_vc_addon/lib/map.php:108
+msgid "Target"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:113 ../hue_vc_addon/lib/map.php:111
+msgid "Blank"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:113 ../hue_vc_addon/lib/map.php:111
+msgid "Self"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:114 ../hue_vc_addon/lib/map.php:112
+msgid "Link Target"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:118 ../hue_vc_addon/lib/map.old.php:541
+#: ../hue_vc_addon/lib/map.old.php:843 ../hue_vc_addon/lib/map.old.php:1352
+#: ../hue_vc_addon/lib/map.old.php:1672 ../hue_vc_addon/lib/map.old.php:1723
+#: ../hue_vc_addon/lib/map.old.php:2355 ../hue_vc_addon/lib/map.php:116
+#: ../hue_vc_addon/lib/map.php:304 ../hue_vc_addon/lib/map.php:585
+#: ../hue_vc_addon/lib/map.php:891 ../hue_vc_addon/lib/map.php:1409
+#: ../hue_vc_addon/lib/map.php:1759 ../hue_vc_addon/lib/map.php:1820
+#: ../hue_vc_addon/lib/map.php:2361 ../hue_vc_addon/lib/map.php:3010
+#: ../hue_vc_addon/lib/map.php:3327 ../hue_vc_addon/lib/map.php:3733
+msgid "Animation Type"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:123 ../hue_vc_addon/lib/map.old.php:546
+#: ../hue_vc_addon/lib/map.old.php:848 ../hue_vc_addon/lib/map.old.php:1357
+#: ../hue_vc_addon/lib/map.old.php:1677 ../hue_vc_addon/lib/map.old.php:1728
+#: ../hue_vc_addon/lib/map.old.php:2360 ../hue_vc_addon/lib/map.php:121
+#: ../hue_vc_addon/lib/map.php:309 ../hue_vc_addon/lib/map.php:590
+#: ../hue_vc_addon/lib/map.php:896 ../hue_vc_addon/lib/map.php:1414
+#: ../hue_vc_addon/lib/map.php:1764 ../hue_vc_addon/lib/map.php:1825
+#: ../hue_vc_addon/lib/map.php:2366 ../hue_vc_addon/lib/map.php:3015
+#: ../hue_vc_addon/lib/map.php:3332 ../hue_vc_addon/lib/map.php:3738
+msgid "Scroll Spy not activated"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:124 ../hue_vc_addon/lib/map.old.php:547
+#: ../hue_vc_addon/lib/map.old.php:849 ../hue_vc_addon/lib/map.old.php:1358
+#: ../hue_vc_addon/lib/map.old.php:1678 ../hue_vc_addon/lib/map.old.php:1729
+#: ../hue_vc_addon/lib/map.old.php:2361 ../hue_vc_addon/lib/map.php:122
+#: ../hue_vc_addon/lib/map.php:310 ../hue_vc_addon/lib/map.php:591
+#: ../hue_vc_addon/lib/map.php:897 ../hue_vc_addon/lib/map.php:1415
+#: ../hue_vc_addon/lib/map.php:1765 ../hue_vc_addon/lib/map.php:1826
+#: ../hue_vc_addon/lib/map.php:2367 ../hue_vc_addon/lib/map.php:3016
+#: ../hue_vc_addon/lib/map.php:3333 ../hue_vc_addon/lib/map.php:3739
+msgid "The element fades in"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:125 ../hue_vc_addon/lib/map.old.php:548
+#: ../hue_vc_addon/lib/map.old.php:850 ../hue_vc_addon/lib/map.old.php:1359
+#: ../hue_vc_addon/lib/map.old.php:1679 ../hue_vc_addon/lib/map.old.php:1730
+#: ../hue_vc_addon/lib/map.old.php:2362 ../hue_vc_addon/lib/map.php:123
+#: ../hue_vc_addon/lib/map.php:311 ../hue_vc_addon/lib/map.php:592
+#: ../hue_vc_addon/lib/map.php:898 ../hue_vc_addon/lib/map.php:1416
+#: ../hue_vc_addon/lib/map.php:1766 ../hue_vc_addon/lib/map.php:1827
+#: ../hue_vc_addon/lib/map.php:2368 ../hue_vc_addon/lib/map.php:3017
+#: ../hue_vc_addon/lib/map.php:3334 ../hue_vc_addon/lib/map.php:3740
+msgid "The element scales up"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:126 ../hue_vc_addon/lib/map.old.php:549
+#: ../hue_vc_addon/lib/map.old.php:851 ../hue_vc_addon/lib/map.old.php:1360
+#: ../hue_vc_addon/lib/map.old.php:1680 ../hue_vc_addon/lib/map.old.php:1731
+#: ../hue_vc_addon/lib/map.old.php:2363 ../hue_vc_addon/lib/map.php:124
+#: ../hue_vc_addon/lib/map.php:312 ../hue_vc_addon/lib/map.php:593
+#: ../hue_vc_addon/lib/map.php:899 ../hue_vc_addon/lib/map.php:1417
+#: ../hue_vc_addon/lib/map.php:1767 ../hue_vc_addon/lib/map.php:1828
+#: ../hue_vc_addon/lib/map.php:2369 ../hue_vc_addon/lib/map.php:3018
+#: ../hue_vc_addon/lib/map.php:3335 ../hue_vc_addon/lib/map.php:3741
+msgid "The element scales down"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:127 ../hue_vc_addon/lib/map.old.php:550
+#: ../hue_vc_addon/lib/map.old.php:852 ../hue_vc_addon/lib/map.old.php:1361
+#: ../hue_vc_addon/lib/map.old.php:1681 ../hue_vc_addon/lib/map.old.php:1732
+#: ../hue_vc_addon/lib/map.old.php:2364 ../hue_vc_addon/lib/map.php:125
+#: ../hue_vc_addon/lib/map.php:313 ../hue_vc_addon/lib/map.php:594
+#: ../hue_vc_addon/lib/map.php:900 ../hue_vc_addon/lib/map.php:1418
+#: ../hue_vc_addon/lib/map.php:1768 ../hue_vc_addon/lib/map.php:1829
+#: ../hue_vc_addon/lib/map.php:2370 ../hue_vc_addon/lib/map.php:3019
+#: ../hue_vc_addon/lib/map.php:3336 ../hue_vc_addon/lib/map.php:3742
+msgid "The element slides in from the top"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:128 ../hue_vc_addon/lib/map.old.php:551
+#: ../hue_vc_addon/lib/map.old.php:853 ../hue_vc_addon/lib/map.old.php:1362
+#: ../hue_vc_addon/lib/map.old.php:1682 ../hue_vc_addon/lib/map.old.php:1733
+#: ../hue_vc_addon/lib/map.old.php:2365 ../hue_vc_addon/lib/map.php:126
+#: ../hue_vc_addon/lib/map.php:314 ../hue_vc_addon/lib/map.php:595
+#: ../hue_vc_addon/lib/map.php:901 ../hue_vc_addon/lib/map.php:1419
+#: ../hue_vc_addon/lib/map.php:1769 ../hue_vc_addon/lib/map.php:1830
+#: ../hue_vc_addon/lib/map.php:2371 ../hue_vc_addon/lib/map.php:3020
+#: ../hue_vc_addon/lib/map.php:3337 ../hue_vc_addon/lib/map.php:3743
+msgid "The element slides in from the bottom"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:129 ../hue_vc_addon/lib/map.old.php:552
+#: ../hue_vc_addon/lib/map.old.php:854 ../hue_vc_addon/lib/map.old.php:1363
+#: ../hue_vc_addon/lib/map.old.php:1683 ../hue_vc_addon/lib/map.old.php:1734
+#: ../hue_vc_addon/lib/map.old.php:2366 ../hue_vc_addon/lib/map.php:127
+#: ../hue_vc_addon/lib/map.php:315 ../hue_vc_addon/lib/map.php:596
+#: ../hue_vc_addon/lib/map.php:902 ../hue_vc_addon/lib/map.php:1420
+#: ../hue_vc_addon/lib/map.php:1770 ../hue_vc_addon/lib/map.php:1831
+#: ../hue_vc_addon/lib/map.php:2372 ../hue_vc_addon/lib/map.php:3021
+#: ../hue_vc_addon/lib/map.php:3338 ../hue_vc_addon/lib/map.php:3744
+msgid "The element slides in from the left"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:130 ../hue_vc_addon/lib/map.old.php:553
+#: ../hue_vc_addon/lib/map.old.php:855 ../hue_vc_addon/lib/map.old.php:1364
+#: ../hue_vc_addon/lib/map.old.php:1684 ../hue_vc_addon/lib/map.old.php:1735
+#: ../hue_vc_addon/lib/map.old.php:2367 ../hue_vc_addon/lib/map.php:128
+#: ../hue_vc_addon/lib/map.php:316 ../hue_vc_addon/lib/map.php:597
+#: ../hue_vc_addon/lib/map.php:903 ../hue_vc_addon/lib/map.php:1421
+#: ../hue_vc_addon/lib/map.php:1771 ../hue_vc_addon/lib/map.php:1832
+#: ../hue_vc_addon/lib/map.php:2373 ../hue_vc_addon/lib/map.php:3022
+#: ../hue_vc_addon/lib/map.php:3339 ../hue_vc_addon/lib/map.php:3745
+msgid "The element slides in from the right."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:132 ../hue_vc_addon/lib/map.old.php:555
+#: ../hue_vc_addon/lib/map.old.php:857 ../hue_vc_addon/lib/map.old.php:1366
+#: ../hue_vc_addon/lib/map.old.php:1686 ../hue_vc_addon/lib/map.old.php:1737
+#: ../hue_vc_addon/lib/map.old.php:2369 ../hue_vc_addon/lib/map.php:130
+#: ../hue_vc_addon/lib/map.php:318 ../hue_vc_addon/lib/map.php:599
+#: ../hue_vc_addon/lib/map.php:905 ../hue_vc_addon/lib/map.php:1423
+#: ../hue_vc_addon/lib/map.php:1773 ../hue_vc_addon/lib/map.php:1834
+#: ../hue_vc_addon/lib/map.php:2375 ../hue_vc_addon/lib/map.php:3024
+#: ../hue_vc_addon/lib/map.php:3341 ../hue_vc_addon/lib/map.php:3747
+msgid "Scroll spy effects"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:136 ../hue_vc_addon/lib/map.old.php:559
+#: ../hue_vc_addon/lib/map.old.php:861 ../hue_vc_addon/lib/map.old.php:1370
+#: ../hue_vc_addon/lib/map.old.php:1690 ../hue_vc_addon/lib/map.old.php:1741
+#: ../hue_vc_addon/lib/map.old.php:2373 ../hue_vc_addon/lib/map.php:134
+#: ../hue_vc_addon/lib/map.php:322 ../hue_vc_addon/lib/map.php:603
+#: ../hue_vc_addon/lib/map.php:909 ../hue_vc_addon/lib/map.php:1427
+#: ../hue_vc_addon/lib/map.php:1777 ../hue_vc_addon/lib/map.php:1838
+#: ../hue_vc_addon/lib/map.php:2379 ../hue_vc_addon/lib/map.php:3028
+#: ../hue_vc_addon/lib/map.php:3345 ../hue_vc_addon/lib/map.php:3752
+msgid "Animation Delay"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:140 ../hue_vc_addon/lib/map.old.php:563
+#: ../hue_vc_addon/lib/map.old.php:865 ../hue_vc_addon/lib/map.old.php:1374
+#: ../hue_vc_addon/lib/map.old.php:1694 ../hue_vc_addon/lib/map.old.php:1745
+#: ../hue_vc_addon/lib/map.old.php:2377 ../hue_vc_addon/lib/map.php:138
+#: ../hue_vc_addon/lib/map.php:326 ../hue_vc_addon/lib/map.php:607
+#: ../hue_vc_addon/lib/map.php:913 ../hue_vc_addon/lib/map.php:1431
+#: ../hue_vc_addon/lib/map.php:1781 ../hue_vc_addon/lib/map.php:1842
+#: ../hue_vc_addon/lib/map.php:2383 ../hue_vc_addon/lib/map.php:3032
+#: ../hue_vc_addon/lib/map.php:3349 ../hue_vc_addon/lib/map.php:3756
+msgid "The number of delay the animation effect of the icon. in milisecond"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:146 ../hue_vc_addon/lib/map.old.php:319
+#: ../hue_vc_addon/lib/map.php:144 ../hue_vc_addon/lib/map.php:331
+#: ../hue_vc_addon/lib/map.php:3355
+msgid "Css"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:148 ../hue_vc_addon/lib/map.php:146
+#: ../hue_vc_addon/lib/map.php:3357
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:149 ../hue_vc_addon/lib/map.old.php:321
+#: ../hue_vc_addon/lib/map.php:147 ../hue_vc_addon/lib/map.php:333
+#: ../hue_vc_addon/lib/map.php:3358
+msgid "Design options"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:157 ../hue_vc_addon/lib/map.php:154
+msgid "Section Heading"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:164 ../hue_vc_addon/lib/map.php:160
+msgid "Shows the heading title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:169 ../hue_vc_addon/lib/map.php:164
+msgid "Separator"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:173 ../hue_vc_addon/lib/map.old.php:487
+#: ../hue_vc_addon/lib/map.old.php:1200 ../hue_vc_addon/lib/map.old.php:2230
+#: ../hue_vc_addon/lib/map.php:168 ../hue_vc_addon/lib/map.php:531
+#: ../hue_vc_addon/lib/map.php:1244 ../hue_vc_addon/lib/map.php:1320
+#: ../hue_vc_addon/lib/map.php:2240 ../hue_vc_addon/lib/map.php:3248
+#: ../hue_vc_addon/lib/map.php:3271 ../hue_vc_addon/lib/map.php:3684
+#: ../hue_vc_addon/lib/map.php:3692 ../hue_vc_addon/lib/map.php:3726
+msgid "Yes"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:174 ../hue_vc_addon/lib/map.old.php:487
+#: ../hue_vc_addon/lib/map.old.php:1201 ../hue_vc_addon/lib/map.old.php:2231
+#: ../hue_vc_addon/lib/map.php:169 ../hue_vc_addon/lib/map.php:531
+#: ../hue_vc_addon/lib/map.php:1245 ../hue_vc_addon/lib/map.php:1321
+#: ../hue_vc_addon/lib/map.php:2241 ../hue_vc_addon/lib/map.php:3249
+#: ../hue_vc_addon/lib/map.php:3272 ../hue_vc_addon/lib/map.php:3684
+#: ../hue_vc_addon/lib/map.php:3692 ../hue_vc_addon/lib/map.php:3727
+msgid "No"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:185
+msgid "Type 1: Borderer"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:186
+msgid "Type 2: Border Top-Bottom"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:187
+msgid "Type 3: Two Bottom Polkadot"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:188
+msgid "Type 4: Color Background"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:189
+msgid "Type 5: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:190
+msgid "Type 6: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:191
+msgid "Type 7: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:192
+msgid "Type 8: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:193
+msgid "Type 9: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:194
+msgid "Type 10: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:195
+msgid "Type 11: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:196
+msgid "Type 12: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:197
+msgid "Type 13: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:198
+msgid "Type 14: "
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:203 ../hue_vc_addon/lib/map.php:195
+msgid "Separator Position"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:206 ../hue_vc_addon/lib/map.old.php:222
+#: ../hue_vc_addon/lib/map.old.php:2829 ../hue_vc_addon/lib/map.php:198
+#: ../hue_vc_addon/lib/map.php:214 ../hue_vc_addon/lib/map.php:2832
+#: ../hue_vc_addon/lib/map.php:2929 ../hue_vc_addon/lib/map.php:3259
+msgid "Center"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:206 ../hue_vc_addon/lib/map.old.php:222
+#: ../hue_vc_addon/lib/map.old.php:836 ../hue_vc_addon/lib/map.old.php:1770
+#: ../hue_vc_addon/lib/map.old.php:2829 ../hue_vc_addon/lib/map.php:198
+#: ../hue_vc_addon/lib/map.php:214 ../hue_vc_addon/lib/map.php:884
+#: ../hue_vc_addon/lib/map.php:2832 ../hue_vc_addon/lib/map.php:2929
+#: ../hue_vc_addon/lib/map.php:3260
+msgid "Left"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:206 ../hue_vc_addon/lib/map.old.php:222
+#: ../hue_vc_addon/lib/map.old.php:837 ../hue_vc_addon/lib/map.old.php:1771
+#: ../hue_vc_addon/lib/map.old.php:2829 ../hue_vc_addon/lib/map.php:198
+#: ../hue_vc_addon/lib/map.php:214 ../hue_vc_addon/lib/map.php:885
+#: ../hue_vc_addon/lib/map.php:2832 ../hue_vc_addon/lib/map.php:2929
+#: ../hue_vc_addon/lib/map.php:3261
+msgid "Right"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:211 ../hue_vc_addon/lib/map.php:203
+msgid "Text Heading"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:219 ../hue_vc_addon/lib/map.php:211
+msgid "Text Alignment"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:228 ../hue_vc_addon/lib/map.php:220
+msgid "Font Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:233 ../hue_vc_addon/lib/map.php:225
+msgid "Extra Large"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:234 ../hue_vc_addon/lib/map.old.php:2809
+#: ../hue_vc_addon/lib/map.php:226 ../hue_vc_addon/lib/map.php:2812
+#: ../hue_vc_addon/lib/map.php:2909
+msgid "Large"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:235 ../hue_vc_addon/lib/map.old.php:259
+#: ../hue_vc_addon/lib/map.old.php:283 ../hue_vc_addon/lib/map.old.php:2266
+#: ../hue_vc_addon/lib/map.old.php:2275 ../hue_vc_addon/lib/map.old.php:2721
+#: ../hue_vc_addon/lib/map.php:227 ../hue_vc_addon/lib/map.php:251
+#: ../hue_vc_addon/lib/map.php:275 ../hue_vc_addon/lib/map.php:2276
+#: ../hue_vc_addon/lib/map.php:2285 ../hue_vc_addon/lib/map.php:2722
+msgid "Default"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:236 ../hue_vc_addon/lib/map.old.php:2807
+#: ../hue_vc_addon/lib/map.php:228 ../hue_vc_addon/lib/map.php:2810
+#: ../hue_vc_addon/lib/map.php:2907
+msgid "Small"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:237 ../hue_vc_addon/lib/map.php:229
+msgid "Extra small"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:238 ../hue_vc_addon/lib/map.php:230
+msgid "Custom Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:243 ../hue_vc_addon/lib/map.php:235
+msgid "Custom Font Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:252 ../hue_vc_addon/lib/map.php:244
+msgid "Font Style"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:257 ../hue_vc_addon/lib/map.php:249
+msgid "Italic"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:258 ../hue_vc_addon/lib/map.php:250
+msgid "Oblique"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:260 ../hue_vc_addon/lib/map.old.php:272
+#: ../hue_vc_addon/lib/map.php:252 ../hue_vc_addon/lib/map.php:264
+msgid "Normal"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:265 ../hue_vc_addon/lib/map.php:257
+msgid "Font Weight"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:270 ../hue_vc_addon/lib/map.php:262
+msgid "Bold"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:271 ../hue_vc_addon/lib/map.php:263
+msgid "Bolder"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:273 ../hue_vc_addon/lib/map.php:265
+msgid "lighter"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:288 ../hue_vc_addon/lib/map.php:280
+msgid "Line Height"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:296
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:304 ../hue_vc_addon/lib/map.php:288
+msgid "Text Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:311 ../hue_vc_addon/lib/map.php:295
+msgid "Separator Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:474 ../hue_vc_addon/lib/map.php:519
+msgid "Price Item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:485 ../hue_vc_addon/lib/map.php:529
+msgid "Most popular"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:492 ../hue_vc_addon/lib/map.php:536
+msgid "Package Name"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:498 ../hue_vc_addon/lib/map.php:542
+msgid "Package Image"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:504 ../hue_vc_addon/lib/map.php:548
+msgid "Price Unit"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:510 ../hue_vc_addon/lib/map.php:554
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:516 ../hue_vc_addon/lib/map.php:560
+msgid "Price"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:522 ../hue_vc_addon/lib/map.php:566
+msgid "Package Detail"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:525 ../hue_vc_addon/lib/map.php:569
+msgid ""
+"Type package detail in single line (without breakline/enter). Each breakline "
+"is automatically detected as new detail item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:529 ../hue_vc_addon/lib/map.php:573
+msgid "\"Button\" Link"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:535 ../hue_vc_addon/lib/map.php:579
+msgid "\"Button\" Text"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:573 ../hue_vc_addon/lib/map.old.php:589
+#: ../hue_vc_addon/lib/map.php:617 ../hue_vc_addon/lib/map.php:632
+msgid "Pricing Table"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:582 ../hue_vc_addon/lib/map.php:625
+msgid "Shows price comparison table"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:586 ../hue_vc_addon/lib/map.old.php:825
+#: ../hue_vc_addon/lib/map.old.php:1179 ../hue_vc_addon/lib/map.old.php:1716
+#: ../hue_vc_addon/lib/map.old.php:2333 ../hue_vc_addon/lib/map.old.php:2616
+#: ../hue_vc_addon/lib/map.php:629 ../hue_vc_addon/lib/map.php:873
+#: ../hue_vc_addon/lib/map.php:1223 ../hue_vc_addon/lib/map.php:1802
+#: ../hue_vc_addon/lib/map.php:2339 ../hue_vc_addon/lib/map.php:2617
+#: ../hue_vc_addon/lib/map.php:2997
+msgid "Module Title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:593 ../hue_vc_addon/lib/map.php:636
+msgid "Number of Price Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:596 ../hue_vc_addon/lib/map.php:639
+msgid "Three"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:597 ../hue_vc_addon/lib/map.php:640
+msgid "Four"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:813 ../hue_vc_addon/lib/map.old.php:828
+#: ../hue_vc_addon/lib/map.php:862 ../hue_vc_addon/lib/map.php:876
+msgid "Vertical Tab"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:821 ../hue_vc_addon/lib/map.php:869
+msgid "Shows customizable vertical tab"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:832 ../hue_vc_addon/lib/map.php:880
+msgid "Navigation Position"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:839 ../hue_vc_addon/lib/map.php:887
+msgid "Navigation position"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:874 ../hue_vc_addon/lib/map.php:922
+msgid "Tab Item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:892 ../hue_vc_addon/lib/map.old.php:1584
+#: ../hue_vc_addon/lib/map.php:939 ../hue_vc_addon/lib/map.php:1671
+#: ../hue_vc_addon/lib/map.php:3403
+msgid "Main Title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:898 ../hue_vc_addon/lib/map.old.php:1591
+#: ../hue_vc_addon/lib/map.php:945 ../hue_vc_addon/lib/map.php:1678
+#: ../hue_vc_addon/lib/map.php:3410
+msgid "Sub Title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:904 ../hue_vc_addon/lib/map.old.php:1824
+#: ../hue_vc_addon/lib/map.php:951
+msgid "Content"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1167 ../hue_vc_addon/lib/map.php:1211
+msgid "Carousel"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1175 ../hue_vc_addon/lib/map.php:1220
+msgid "Shows element in carousel"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1182 ../hue_vc_addon/lib/map.php:1226
+msgid "DT Carousel"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1186 ../hue_vc_addon/lib/map.php:1230
+#: ../hue_vc_addon/lib/map.php:3711
+msgid "Slide Speed"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1190 ../hue_vc_addon/lib/map.old.php:2240
+#: ../hue_vc_addon/lib/map.php:1234 ../hue_vc_addon/lib/map.php:2250
+#: ../hue_vc_addon/lib/map.php:3715
+msgid "Slide speed (in millisecond). The lower value the faster slides"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1194 ../hue_vc_addon/lib/map.php:1238
+#: ../hue_vc_addon/lib/map.php:3720
+msgid "Autoplay"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1196 ../hue_vc_addon/lib/map.old.php:2226
+#: ../hue_vc_addon/lib/map.php:1240 ../hue_vc_addon/lib/map.php:2236
+#: ../hue_vc_addon/lib/map.php:3722
+msgid "Set Autoplay"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1206 ../hue_vc_addon/lib/map.php:1250
+msgid "Slide Interval"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1210 ../hue_vc_addon/lib/map.php:1254
+msgid "Slide Interval (in millisecond)"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1215 ../hue_vc_addon/lib/map.php:1259
+msgid "Pagination"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1217 ../hue_vc_addon/lib/map.php:1261
+msgid "Pagination Setting"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1221 ../hue_vc_addon/lib/map.old.php:1612
+#: ../hue_vc_addon/lib/map.old.php:2662 ../hue_vc_addon/lib/map.old.php:2672
+#: ../hue_vc_addon/lib/map.old.php:2682 ../hue_vc_addon/lib/map.php:1265
+#: ../hue_vc_addon/lib/map.php:1699 ../hue_vc_addon/lib/map.php:2663
+#: ../hue_vc_addon/lib/map.php:2673 ../hue_vc_addon/lib/map.php:2683
+msgid "Show"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1222 ../hue_vc_addon/lib/map.old.php:2662
+#: ../hue_vc_addon/lib/map.old.php:2672 ../hue_vc_addon/lib/map.old.php:2682
+#: ../hue_vc_addon/lib/map.php:1266 ../hue_vc_addon/lib/map.php:2663
+#: ../hue_vc_addon/lib/map.php:2673 ../hue_vc_addon/lib/map.php:2683
+msgid "Hidden"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1227 ../hue_vc_addon/lib/map.old.php:1229
+#: ../hue_vc_addon/lib/map.php:1271 ../hue_vc_addon/lib/map.php:1273
+msgid "Pagination Type"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1233 ../hue_vc_addon/lib/map.php:1277
+msgid "Standard"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1234 ../hue_vc_addon/lib/map.old.php:2722
+#: ../hue_vc_addon/lib/map.php:1278 ../hue_vc_addon/lib/map.php:2723
+msgid "Custom Image"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1235 ../hue_vc_addon/lib/map.php:1279
+msgid "Custom Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1241 ../hue_vc_addon/lib/map.old.php:2834
+#: ../hue_vc_addon/lib/map.php:1293 ../hue_vc_addon/lib/map.php:2837
+#: ../hue_vc_addon/lib/map.php:2934 ../hue_vc_addon/lib/map.php:3313
+msgid "Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1248 ../hue_vc_addon/lib/map.php:1286
+msgid "Pagination Preview"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1255 ../hue_vc_addon/lib/map.old.php:2804
+#: ../hue_vc_addon/lib/map.php:1300 ../hue_vc_addon/lib/map.php:2807
+#: ../hue_vc_addon/lib/map.php:2904
+msgid "Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1262 ../hue_vc_addon/lib/map.php:1307
+msgid "Pagination Image"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1270 ../hue_vc_addon/lib/map.php:1327
+msgid "Thumbnail Width ( in percent )"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1278 ../hue_vc_addon/lib/map.php:1335
+msgid "Pagination Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1282 ../hue_vc_addon/lib/map.php:1339
+msgid "The icon you want as pagination"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1287 ../hue_vc_addon/lib/map.old.php:2340
+#: ../hue_vc_addon/lib/map.php:1344 ../hue_vc_addon/lib/map.php:2346
+#: ../hue_vc_addon/lib/map.php:3667
+msgid "Number of Columns"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1289 ../hue_vc_addon/lib/map.old.php:2342
+#: ../hue_vc_addon/lib/map.php:1346 ../hue_vc_addon/lib/map.php:2348
+#: ../hue_vc_addon/lib/map.php:3669
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1292 ../hue_vc_addon/lib/map.old.php:1305
+#: ../hue_vc_addon/lib/map.old.php:1318 ../hue_vc_addon/lib/map.old.php:1331
+#: ../hue_vc_addon/lib/map.old.php:1344 ../hue_vc_addon/lib/map.old.php:2345
+#: ../hue_vc_addon/lib/map.php:1349 ../hue_vc_addon/lib/map.php:1362
+#: ../hue_vc_addon/lib/map.php:1375 ../hue_vc_addon/lib/map.php:1388
+#: ../hue_vc_addon/lib/map.php:1401 ../hue_vc_addon/lib/map.php:2351
+#: ../hue_vc_addon/lib/map.php:3587 ../hue_vc_addon/lib/map.php:3604
+#: ../hue_vc_addon/lib/map.php:3621 ../hue_vc_addon/lib/map.php:3638
+#: ../hue_vc_addon/lib/map.php:3655
+msgid "One Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1293 ../hue_vc_addon/lib/map.old.php:1306
+#: ../hue_vc_addon/lib/map.old.php:1319 ../hue_vc_addon/lib/map.old.php:1332
+#: ../hue_vc_addon/lib/map.old.php:1345 ../hue_vc_addon/lib/map.old.php:2346
+#: ../hue_vc_addon/lib/map.php:1350 ../hue_vc_addon/lib/map.php:1363
+#: ../hue_vc_addon/lib/map.php:1376 ../hue_vc_addon/lib/map.php:1389
+#: ../hue_vc_addon/lib/map.php:1402 ../hue_vc_addon/lib/map.php:2352
+#: ../hue_vc_addon/lib/map.php:3588 ../hue_vc_addon/lib/map.php:3605
+#: ../hue_vc_addon/lib/map.php:3622 ../hue_vc_addon/lib/map.php:3639
+#: ../hue_vc_addon/lib/map.php:3656 ../hue_vc_addon/lib/map.php:3672
+msgid "Two Columns"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1294 ../hue_vc_addon/lib/map.old.php:1307
+#: ../hue_vc_addon/lib/map.old.php:1320 ../hue_vc_addon/lib/map.old.php:1333
+#: ../hue_vc_addon/lib/map.old.php:1346 ../hue_vc_addon/lib/map.old.php:2347
+#: ../hue_vc_addon/lib/map.php:1351 ../hue_vc_addon/lib/map.php:1364
+#: ../hue_vc_addon/lib/map.php:1377 ../hue_vc_addon/lib/map.php:1390
+#: ../hue_vc_addon/lib/map.php:1403 ../hue_vc_addon/lib/map.php:2353
+#: ../hue_vc_addon/lib/map.php:3589 ../hue_vc_addon/lib/map.php:3606
+#: ../hue_vc_addon/lib/map.php:3623 ../hue_vc_addon/lib/map.php:3640
+#: ../hue_vc_addon/lib/map.php:3657 ../hue_vc_addon/lib/map.php:3673
+msgid "Three Columns"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1295 ../hue_vc_addon/lib/map.old.php:1308
+#: ../hue_vc_addon/lib/map.old.php:1321 ../hue_vc_addon/lib/map.old.php:1334
+#: ../hue_vc_addon/lib/map.old.php:1347 ../hue_vc_addon/lib/map.old.php:2348
+#: ../hue_vc_addon/lib/map.php:1352 ../hue_vc_addon/lib/map.php:1365
+#: ../hue_vc_addon/lib/map.php:1378 ../hue_vc_addon/lib/map.php:1391
+#: ../hue_vc_addon/lib/map.php:1404 ../hue_vc_addon/lib/map.php:2354
+#: ../hue_vc_addon/lib/map.php:3590 ../hue_vc_addon/lib/map.php:3607
+#: ../hue_vc_addon/lib/map.php:3624 ../hue_vc_addon/lib/map.php:3641
+#: ../hue_vc_addon/lib/map.php:3658 ../hue_vc_addon/lib/map.php:3674
+msgid "Four Columns"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1300 ../hue_vc_addon/lib/map.php:1357
+#: ../hue_vc_addon/lib/map.php:3599
+msgid "Desktop Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1302 ../hue_vc_addon/lib/map.php:1359
+msgid "items between 1200px and 1023px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1313 ../hue_vc_addon/lib/map.php:1370
+#: ../hue_vc_addon/lib/map.php:3616
+msgid "Desktop Small Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1315 ../hue_vc_addon/lib/map.php:1372
+msgid "items between 1024px and 768px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1326 ../hue_vc_addon/lib/map.php:1383
+#: ../hue_vc_addon/lib/map.php:3633
+msgid "Tablet Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1328 ../hue_vc_addon/lib/map.php:1385
+msgid "items between 768px and 600px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1339 ../hue_vc_addon/lib/map.php:1396
+#: ../hue_vc_addon/lib/map.php:3650
+msgid "Mobile Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1341 ../hue_vc_addon/lib/map.php:1398
+msgid "items below 600px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1575 ../hue_vc_addon/lib/map.php:1653
+msgid "Custom Team Item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1580 ../hue_vc_addon/lib/map.php:1658
+msgid "Shows team description"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1597 ../hue_vc_addon/lib/map.php:1684
+#: ../hue_vc_addon/lib/map.php:3416
+msgid "Description"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1610 ../hue_vc_addon/lib/map.php:1697
+msgid "Social Link"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1612 ../hue_vc_addon/lib/map.php:1699
+msgid "Hide"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1703 ../hue_vc_addon/lib/map.old.php:1719
+#: ../hue_vc_addon/lib/map.php:1790 ../hue_vc_addon/lib/map.php:1805
+msgid "Timeline"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1712 ../hue_vc_addon/lib/map.php:1799
+msgid "Shows element in timeline view"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1754 ../hue_vc_addon/lib/map.php:1851
+msgid "Timeline Item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1777
+msgid "Icon Box Style"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1781 ../hue_vc_addon/lib/map.old.php:2819
+#: ../hue_vc_addon/lib/map.php:2822 ../hue_vc_addon/lib/map.php:2919
+msgid "Square"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1782 ../hue_vc_addon/lib/map.old.php:2820
+#: ../hue_vc_addon/lib/map.php:2823 ../hue_vc_addon/lib/map.php:2920
+msgid "Circle"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1796 ../hue_vc_addon/lib/map.old.php:2038
+#: ../hue_vc_addon/lib/map.old.php:2143 ../hue_vc_addon/lib/map.old.php:2292
+#: ../hue_vc_addon/lib/map.php:2052 ../hue_vc_addon/lib/map.php:2154
+#: ../hue_vc_addon/lib/map.php:2302 ../hue_vc_addon/lib/map.php:2966
+msgid "Title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1803
+msgid "Text"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:1813
+msgid "Timeline Separator"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2019 ../hue_vc_addon/lib/map.php:2042
+msgid "Progress Bar Item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2026 ../hue_vc_addon/lib/map.php:2049
+msgid "Shows the progress bar"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2045 ../hue_vc_addon/lib/map.old.php:2150
+#: ../hue_vc_addon/lib/map.php:2059 ../hue_vc_addon/lib/map.php:2161
+msgid "Value"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2051 ../hue_vc_addon/lib/map.old.php:2156
+#: ../hue_vc_addon/lib/map.php:2065 ../hue_vc_addon/lib/map.php:2167
+msgid "Units"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2057 ../hue_vc_addon/lib/map.old.php:2168
+#: ../hue_vc_addon/lib/map.php:2071 ../hue_vc_addon/lib/map.php:2179
+msgid "Bar Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2063 ../hue_vc_addon/lib/map.old.php:2174
+#: ../hue_vc_addon/lib/map.old.php:2841 ../hue_vc_addon/lib/map.php:2077
+#: ../hue_vc_addon/lib/map.php:2185 ../hue_vc_addon/lib/map.php:2844
+#: ../hue_vc_addon/lib/map.php:2941 ../hue_vc_addon/lib/map.php:3211
+msgid "Background Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2132 ../hue_vc_addon/lib/map.php:2144
+msgid "Circle Bar"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2139 ../hue_vc_addon/lib/map.php:2151
+msgid "Shows the circle bar"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2162 ../hue_vc_addon/lib/map.php:2173
+msgid "Bar Width"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2184 ../hue_vc_addon/lib/map.php:2195
+msgid "DT Twitter Slider"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2190 ../hue_vc_addon/lib/map.php:2201
+msgid "Shows tweets from twitter account"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2194 ../hue_vc_addon/lib/map.php:2204
+msgid "Twitter Account:"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2201 ../hue_vc_addon/lib/map.php:2211
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2208 ../hue_vc_addon/lib/map.php:2218
+msgid "Date Format:"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2210 ../hue_vc_addon/lib/map.php:2220
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual "
+"month, %y: 2 digit year, %Y: 4 digit year"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2216 ../hue_vc_addon/lib/map.php:2226
+msgid "Template :"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2221 ../hue_vc_addon/lib/map.php:2231
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2224 ../hue_vc_addon/lib/map.php:2234
+msgid "Auto Play:"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2236 ../hue_vc_addon/lib/map.php:2246
+msgid "Transition Threshold (msec):"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2280 ../hue_vc_addon/lib/map.php:2291
+msgid "Partner Item"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2299 ../hue_vc_addon/lib/map.php:2309
+msgid "Image/Logo"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2306 ../hue_vc_addon/lib/map.php:2316
+msgid "Website"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2316 ../hue_vc_addon/lib/map.old.php:2336
+#: ../hue_vc_addon/lib/map.php:2326 ../hue_vc_addon/lib/map.php:2342
+msgid "Partner"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2319 ../hue_vc_addon/lib/map.php:2329
+msgid "Shows the detail of partners"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2349 ../hue_vc_addon/lib/map.php:2355
+#: ../hue_vc_addon/lib/map.php:3592 ../hue_vc_addon/lib/map.php:3609
+#: ../hue_vc_addon/lib/map.php:3626 ../hue_vc_addon/lib/map.php:3643
+#: ../hue_vc_addon/lib/map.php:3660 ../hue_vc_addon/lib/map.php:3675
+msgid "Six Columns"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2602 ../hue_vc_addon/lib/map.old.php:2619
+#: ../hue_vc_addon/lib/map.php:2607 ../hue_vc_addon/lib/map.php:2620
+msgid "Google Map"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2604 ../hue_vc_addon/lib/map.php:2609
+msgid "Shows the google map"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2623 ../hue_vc_addon/lib/map.php:2624
+msgid "Latitude"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2626 ../hue_vc_addon/lib/map.php:2627
+msgid "put your latitude coordinate your location, ex: -7.2852292"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2633 ../hue_vc_addon/lib/map.php:2634
+msgid "Longitude"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2636 ../hue_vc_addon/lib/map.php:2637
+msgid "put your longitude coordinate your location, ex: 112.6809869"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2643 ../hue_vc_addon/lib/map.php:2644
+msgid "Zoom Level"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2646 ../hue_vc_addon/lib/map.php:2647
+msgid "zoom level ypur map, higher value present more detail."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2657 ../hue_vc_addon/lib/map.php:2658
+msgid "Zoom Control"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2660 ../hue_vc_addon/lib/map.php:2661
+msgid "Show/hide zoom control"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2667 ../hue_vc_addon/lib/map.php:2668
+msgid "Pan Control"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2670 ../hue_vc_addon/lib/map.php:2671
+msgid "Show/hide pan control"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2677 ../hue_vc_addon/lib/map.php:2678
+msgid "Street View Control"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2680 ../hue_vc_addon/lib/map.php:2681
+msgid "Show/hide street view control"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2687 ../hue_vc_addon/lib/map.php:2688
+msgid "Mouse Scroll Wheel"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2690 ../hue_vc_addon/lib/map.php:2691
+msgid "Disable/enable mouse scroll to control zoom"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2692 ../hue_vc_addon/lib/map.php:2693
+msgid "Enable"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2692 ../hue_vc_addon/lib/map.php:2693
+msgid "Disable"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2701 ../hue_vc_addon/lib/map.php:2702
+msgid "Map Height"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2709 ../hue_vc_addon/lib/map.php:2710
+msgid "Map Width"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2716 ../hue_vc_addon/lib/map.php:2717
+msgid "Map Marker"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2727 ../hue_vc_addon/lib/map.php:2728
+msgid "Image Marker"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2732 ../hue_vc_addon/lib/map.php:2733
+msgid "Select image as marker your location on the map"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2736 ../hue_vc_addon/lib/map.php:2737
+msgid "Map Style"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2741 ../hue_vc_addon/lib/map.php:2742
+msgid "Shades of Grey"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2742 ../hue_vc_addon/lib/map.php:2743
+msgid "Midnight Commander"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2743 ../hue_vc_addon/lib/map.php:2744
+msgid "Blue water"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2744 ../hue_vc_addon/lib/map.php:2745
+msgid "Light Monochrome"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2745 ../hue_vc_addon/lib/map.php:2746
+msgid "Neutral Blue"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2746 ../hue_vc_addon/lib/map.php:2747
+msgid "Avocado World"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2747 ../hue_vc_addon/lib/map.php:2748
+msgid "Nature"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2748 ../hue_vc_addon/lib/map.php:2749
+msgid "Pastel Tones"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2758 ../hue_vc_addon/lib/map.php:2763
+msgid "Social Box"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2764 ../hue_vc_addon/lib/map.php:2769
+#: ../hue_vc_addon/lib/map.php:2866
+msgid "Shows the social icons and links"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2808 ../hue_vc_addon/lib/map.php:2811
+#: ../hue_vc_addon/lib/map.php:2908
+msgid "Medium"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2816 ../hue_vc_addon/lib/map.php:2819
+#: ../hue_vc_addon/lib/map.php:2916
+msgid "Shape"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2821 ../hue_vc_addon/lib/map.php:2824
+#: ../hue_vc_addon/lib/map.php:2921
+msgid "Rounded"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2827 ../hue_vc_addon/lib/map.php:2830
+#: ../hue_vc_addon/lib/map.php:2927
+msgid "Align"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2875 ../hue_vc_addon/lib/map.old.php:2936
+#: ../hue_vc_addon/lib/map.php:4146 ../hue_vc_addon/lib/map.php:4206
+msgid "Add New Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2916 ../hue_vc_addon/lib/map.php:4187
+msgid "No css font available, please check plugin folder <b>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:2955 ../hue_vc_addon/lib/map.php:4225
+#, php-format
+msgid "No css font available, please check plugin folder <b>%s</b>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:3093 ../hue_vc_addon/lib/map.php:4363
+msgid "Add Media"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.old.php:3094 ../hue_vc_addon/lib/map.php:4364
+msgid "Remove Media"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:180
+msgid "Borderer"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:181
+msgid "Color Background"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:182
+msgid "Thick Border"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:183
+msgid "Thin Border"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:184
+msgid "Triple Dots"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:185
+msgid "Triple Dashes"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:186
+msgid "Triple Square Dots"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:187
+msgid "Underlined"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:188
+msgid "Horizontal Line Fullwidth"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:189
+msgid "Horizontal Line"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:190
+msgid "Rounded Border"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:646
+msgid "Image Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:647
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1280
+msgid "Navigation Button"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1315
+msgid "Display original image size as thumbnail"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1555
+msgid "Prev"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1555
+msgid "Next"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1665 ../hue_vc_addon/lib/map.php:1666
+msgid "Type 1"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1809
+msgid "Layout"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1813
+msgid "Chain Center"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1814
+msgid "Chain Left"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1815
+msgid "Chain Right"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1867
+msgid "just work if layout=Chain Center"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1869
+msgid "Align Left"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:1870
+msgid "Align Right"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2860
+msgid "Social Share"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2872
+msgid ""
+"<span class=\"icon-wrap\"><i class=\"fontelloicon-facebook\"></i> Facebook</"
+"span>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2879
+msgid ""
+"<span class=\"icon-wrap\"><i class=\"fontelloicon-twitter-5\"></i> Twitter</"
+"span>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2886
+msgid ""
+"<span class=\"icon-wrap\"><i class=\"fontelloicon-gplus\"></i> Google+</span>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2893
+msgid ""
+"<span class=\"icon-wrap\"><i class=\"fontelloicon-pinterest-2\"></i> "
+"Pinterest</span>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2900
+msgid ""
+"<span class=\"icon-wrap\"><i class=\"fontelloicon-linkedin-5\"></i> "
+"Linkedin</span>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2955 ../hue_vc_addon/lib/map.php:2973
+msgid "Media"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2984
+msgid "Media Download"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:2987
+msgid "Shows the list of available media"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3000 ../hue_vc_addon/lib/map.php:3006
+msgid "Dropdown"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3004
+msgid "Heading Label"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3193
+msgid "Fullscreen Modal"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3202
+msgid "Popup content. To call this popup"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3205
+msgid "Anchor id"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3208
+msgid "Anchor id may used as link like href=\"/yourid/\" to call this popup"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3222
+msgid "Post Navigation"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3227
+msgid "Shows Next and Previous Navigation Post"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3231
+msgid "Navigation Type"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3236
+msgid "Show both Previous and Next Navigation"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3237
+msgid "Show Previous Navigation Only"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3238
+msgid "Show Next Navigation Only"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3244
+msgid "Show Post Title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3254
+msgid "Title Alignment"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3267
+msgid "Show Navigation Title"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3278
+msgid "Previous Navigation Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3288
+msgid "Next Navigation Icon"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3298
+msgid "Icon and Title Size"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3320
+msgid "Hover Color"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3372
+msgid "Close"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3380
+msgid "Testimonial"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3393
+msgid "Type 5"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3394
+msgid "Type 6"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3395
+msgid "Type 28"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3396
+msgid "Type 29"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3397
+msgid "Type 30"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3398
+msgid "Type 31"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3422
+msgid "Customer Image"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3530
+msgid "Recruitment Grid"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3536
+msgid "Show the recuritment grid"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3539
+msgid "Job Fields Shown"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3546
+msgid "Select Layout Type"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3551
+msgid "Slide Carousel"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3552
+msgid "Isotope"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3556
+msgid "Isotope Type"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3561
+msgid "Masonry"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3562
+msgid "FitRows"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3567
+msgid "Gutter"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3574
+msgid "Category"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3577
+msgid "Select one or more category"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3582
+msgid "Column"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3584
+msgid "Number of columns on the screen resolution larger than 1200px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3591 ../hue_vc_addon/lib/map.php:3608
+#: ../hue_vc_addon/lib/map.php:3625 ../hue_vc_addon/lib/map.php:3642
+#: ../hue_vc_addon/lib/map.php:3659
+msgid "Five Columns"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3601
+msgid "Number of columns on the screen resolution between 1200px and 1023px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3618
+msgid "Number of columns on the screen resolution between 1024px and 768px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3635
+msgid "Number of columns on the screen resolution between 768px and 600px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3652
+msgid "Number of columns on the screen resolution below 600px"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3682
+msgid "Show Filter"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3690
+msgid "Show \"All Job\" Filter"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3698
+msgid "All Job Label"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3700 ../hue_vc_addon/lib/map.php:4100
+msgid "All Jobs"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3705
+msgid "Number of Posts to be displayed"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3788 ../hue_vc_addon/lib/map.php:3791
+#: ../hue_vc_addon/lib/map.php:3816
+msgid "All Categories"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:3990 ../hue_vc_addon/lib/map.php:4075
+msgid "i'm Interested"
+msgstr ""
+
+#: ../hue_vc_addon/lib/map.php:4094
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:562
+msgid "<i class=\"icon-left-open-big\"></i>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:638
+#, php-format
+msgid "Detail to %s"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:638
+msgid "Read more"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:665
+msgid "<i class=\"icon-right-open-big\"></i>"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:1471
+msgid "Add Video"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:1471
+msgid "Select Video"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:1471
+msgid "Insert Video"
+msgstr ""
+
+#: ../hue_vc_addon/lib/shortcode.php:1472
+msgid "Remove Video"
+msgstr ""

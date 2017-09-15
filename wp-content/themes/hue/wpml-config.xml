@@ -1,0 +1,26 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">dtcareer</custom-type>
+    <custom-type translate="1">dtpost</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">shop_webhook</custom-type>
+    <custom-type translate="1">vc4_templates</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">vc_grid_item</custom-type>
+    <custom-type translate="1">essential_grid</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">dtcareer_cat</taxonomy>
+    <taxonomy translate="1">dtpostcat</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">essential_grid_category</taxonomy>
+  </taxonomies>
+</wpml-config>

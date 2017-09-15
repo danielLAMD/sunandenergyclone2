@@ -1,0 +1,1126 @@
+@font-face {
+	font-family: "Flaticon Font Awesome";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="fontawesome-"], [class*=" fontawesome-"],
+[class^="fontawesome-"]:before, [class*=" fontawesome-"]:before,
+[class^="fontawesome-"]:after, [class*=" fontawesome-"]:after {   
+	font-family: "Flaticon Font Awesome";
+	font-style: normal;
+/*
+    font-size: 20px;
+	margin-left: 20px;
+*/
+}
+
+.fontawesome-adjust4:before {
+	content: "\e000";
+}
+.fontawesome-align14:before {
+	content: "\e001";
+}
+.fontawesome-align15:before {
+	content: "\e002";
+}
+.fontawesome-align16:before {
+	content: "\e003";
+}
+.fontawesome-ambulance8:before {
+	content: "\e004";
+}
+.fontawesome-anchor16:before {
+	content: "\e005";
+}
+.fontawesome-android4:before {
+	content: "\e006";
+}
+.fontawesome-angle1:before {
+	content: "\e007";
+}
+.fontawesome-angle2:before {
+	content: "\e008";
+}
+.fontawesome-angle:before {
+	content: "\e009";
+}
+.fontawesome-apple22:before {
+	content: "\e00a";
+}
+.fontawesome-archive15:before {
+	content: "\e00b";
+}
+.fontawesome-arrow459:before {
+	content: "\e00c";
+}
+.fontawesome-arrow460:before {
+	content: "\e00d";
+}
+.fontawesome-arrow461:before {
+	content: "\e00e";
+}
+.fontawesome-arrow462:before {
+	content: "\e00f";
+}
+.fontawesome-arrow463:before {
+	content: "\e010";
+}
+.fontawesome-arrow464:before {
+	content: "\e011";
+}
+.fontawesome-arrow465:before {
+	content: "\e012";
+}
+.fontawesome-arrow466:before {
+	content: "\e013";
+}
+.fontawesome-arrow467:before {
+	content: "\e014";
+}
+.fontawesome-arrowhead5:before {
+	content: "\e015";
+}
+.fontawesome-arrowhead6:before {
+	content: "\e016";
+}
+.fontawesome-arrowheads:before {
+	content: "\e017";
+}
+.fontawesome-asterisk2:before {
+	content: "\e018";
+}
+.fontawesome-ban:before {
+	content: "\e019";
+}
+.fontawesome-bar10:before {
+	content: "\e01a";
+}
+.fontawesome-barcode2:before {
+	content: "\e01b";
+}
+.fontawesome-beaker2:before {
+	content: "\e01c";
+}
+.fontawesome-beer9:before {
+	content: "\e01d";
+}
+.fontawesome-bell13:before {
+	content: "\e01e";
+}
+.fontawesome-bitbucket:before {
+	content: "\e01f";
+}
+.fontawesome-bitcoin:before {
+	content: "\e020";
+}
+.fontawesome-bold14:before {
+	content: "\e021";
+}
+.fontawesome-book95:before {
+	content: "\e022";
+}
+.fontawesome-bookmark10:before {
+	content: "\e023";
+}
+.fontawesome-bookmark9:before {
+	content: "\e024";
+}
+.fontawesome-branch:before {
+	content: "\e025";
+}
+.fontawesome-briefcase11:before {
+	content: "\e026";
+}
+.fontawesome-bug6:before {
+	content: "\e027";
+}
+.fontawesome-building8:before {
+	content: "\e028";
+}
+.fontawesome-bull1:before {
+	content: "\e029";
+}
+.fontawesome-bullseye:before {
+	content: "\e02a";
+}
+.fontawesome-calendar51:before {
+	content: "\e02b";
+}
+.fontawesome-calendar52:before {
+	content: "\e02c";
+}
+.fontawesome-camera46:before {
+	content: "\e02d";
+}
+.fontawesome-camera47:before {
+	content: "\e02e";
+}
+.fontawesome-caret4:before {
+	content: "\e02f";
+}
+.fontawesome-caret5:before {
+	content: "\e030";
+}
+.fontawesome-caret6:before {
+	content: "\e031";
+}
+.fontawesome-center5:before {
+	content: "\e032";
+}
+.fontawesome-certificate6:before {
+	content: "\e033";
+}
+.fontawesome-check29:before {
+	content: "\e034";
+}
+.fontawesome-check30:before {
+	content: "\e035";
+}
+.fontawesome-check31:before {
+	content: "\e036";
+}
+.fontawesome-checkered2:before {
+	content: "\e037";
+}
+.fontawesome-chevron17:before {
+	content: "\e038";
+}
+.fontawesome-chevron18:before {
+	content: "\e039";
+}
+.fontawesome-chevron19:before {
+	content: "\e03a";
+}
+.fontawesome-chevron20:before {
+	content: "\e03b";
+}
+.fontawesome-chevron21:before {
+	content: "\e03c";
+}
+.fontawesome-chevron22:before {
+	content: "\e03d";
+}
+.fontawesome-chevron23:before {
+	content: "\e03e";
+}
+.fontawesome-chevron24:before {
+	content: "\e03f";
+}
+.fontawesome-circle33:before {
+	content: "\e040";
+}
+.fontawesome-circle34:before {
+	content: "\e041";
+}
+.fontawesome-circular56:before {
+	content: "\e042";
+}
+.fontawesome-cloud106:before {
+	content: "\e043";
+}
+.fontawesome-cloud107:before {
+	content: "\e044";
+}
+.fontawesome-code10:before {
+	content: "\e045";
+}
+.fontawesome-code11:before {
+	content: "\e046";
+}
+.fontawesome-coffee18:before {
+	content: "\e047";
+}
+.fontawesome-cog2:before {
+	content: "\e048";
+}
+.fontawesome-cogs3:before {
+	content: "\e049";
+}
+.fontawesome-collapse2:before {
+	content: "\e04a";
+}
+.fontawesome-comment32:before {
+	content: "\e04b";
+}
+.fontawesome-comment33:before {
+	content: "\e04c";
+}
+.fontawesome-comments16:before {
+	content: "\e04d";
+}
+.fontawesome-compass41:before {
+	content: "\e04e";
+}
+.fontawesome-computer74:before {
+	content: "\e04f";
+}
+.fontawesome-copy10:before {
+	content: "\e050";
+}
+.fontawesome-correct8:before {
+	content: "\e051";
+}
+.fontawesome-couple35:before {
+	content: "\e052";
+}
+.fontawesome-credit40:before {
+	content: "\e053";
+}
+.fontawesome-crop4:before {
+	content: "\e054";
+}
+.fontawesome-cross41:before {
+	content: "\e055";
+}
+.fontawesome-css3:before {
+	content: "\e056";
+}
+.fontawesome-curved8:before {
+	content: "\e057";
+}
+.fontawesome-cut18:before {
+	content: "\e058";
+}
+.fontawesome-dashboard2:before {
+	content: "\e059";
+}
+.fontawesome-delivery7:before {
+	content: "\e05a";
+}
+.fontawesome-desktop14:before {
+	content: "\e05b";
+}
+.fontawesome-dot:before {
+	content: "\e05c";
+}
+.fontawesome-double28:before {
+	content: "\e05d";
+}
+.fontawesome-double29:before {
+	content: "\e05e";
+}
+.fontawesome-double30:before {
+	content: "\e05f";
+}
+.fontawesome-double31:before {
+	content: "\e060";
+}
+.fontawesome-double32:before {
+	content: "\e061";
+}
+.fontawesome-download62:before {
+	content: "\e062";
+}
+.fontawesome-download63:before {
+	content: "\e063";
+}
+.fontawesome-dribbble4:before {
+	content: "\e064";
+}
+.fontawesome-dropbox13:before {
+	content: "\e065";
+}
+.fontawesome-earth17:before {
+	content: "\e066";
+}
+.fontawesome-edit24:before {
+	content: "\e067";
+}
+.fontawesome-eject14:before {
+	content: "\e068";
+}
+.fontawesome-envelope4:before {
+	content: "\e069";
+}
+.fontawesome-envelope5:before {
+	content: "\e06a";
+}
+.fontawesome-euro29:before {
+	content: "\e06b";
+}
+.fontawesome-exchange1:before {
+	content: "\e06c";
+}
+.fontawesome-exclamation8:before {
+	content: "\e06d";
+}
+.fontawesome-exclamation9:before {
+	content: "\e06e";
+}
+.fontawesome-expand16:before {
+	content: "\e06f";
+}
+.fontawesome-external1:before {
+	content: "\e070";
+}
+.fontawesome-external2:before {
+	content: "\e071";
+}
+.fontawesome-eye50:before {
+	content: "\e072";
+}
+.fontawesome-eye51:before {
+	content: "\e073";
+}
+.fontawesome-facebook25:before {
+	content: "\e074";
+}
+.fontawesome-facebook26:before {
+	content: "\e075";
+}
+.fontawesome-facetime:before {
+	content: "\e076";
+}
+.fontawesome-fast13:before {
+	content: "\e077";
+}
+.fontawesome-female76:before {
+	content: "\e078";
+}
+.fontawesome-fighter2:before {
+	content: "\e079";
+}
+.fontawesome-file27:before {
+	content: "\e07a";
+}
+.fontawesome-file28:before {
+	content: "\e07b";
+}
+.fontawesome-film28:before {
+	content: "\e07c";
+}
+.fontawesome-filter10:before {
+	content: "\e07d";
+}
+.fontawesome-finger6:before {
+	content: "\e07e";
+}
+.fontawesome-fire16:before {
+	content: "\e07f";
+}
+.fontawesome-fire17:before {
+	content: "\e080";
+}
+.fontawesome-flag28:before {
+	content: "\e081";
+}
+.fontawesome-flickr8:before {
+	content: "\e082";
+}
+.fontawesome-fluffy1:before {
+	content: "\e083";
+}
+.fontawesome-folder64:before {
+	content: "\e084";
+}
+.fontawesome-folder65:before {
+	content: "\e085";
+}
+.fontawesome-folder66:before {
+	content: "\e086";
+}
+.fontawesome-font2:before {
+	content: "\e087";
+}
+.fontawesome-font3:before {
+	content: "\e088";
+}
+.fontawesome-fork9:before {
+	content: "\e089";
+}
+.fontawesome-forward8:before {
+	content: "\e08a";
+}
+.fontawesome-four29:before {
+	content: "\e08b";
+}
+.fontawesome-foursquare5:before {
+	content: "\e08c";
+}
+.fontawesome-frown:before {
+	content: "\e08d";
+}
+.fontawesome-fullscreen4:before {
+	content: "\e08e";
+}
+.fontawesome-gamepad1:before {
+	content: "\e08f";
+}
+.fontawesome-gift49:before {
+	content: "\e090";
+}
+.fontawesome-github10:before {
+	content: "\e091";
+}
+.fontawesome-github11:before {
+	content: "\e092";
+}
+.fontawesome-github12:before {
+	content: "\e093";
+}
+.fontawesome-gittip:before {
+	content: "\e094";
+}
+.fontawesome-glass8:before {
+	content: "\e095";
+}
+.fontawesome-google25:before {
+	content: "\e096";
+}
+.fontawesome-google26:before {
+	content: "\e097";
+}
+.fontawesome-great11:before {
+	content: "\e098";
+}
+.fontawesome-group41:before {
+	content: "\e099";
+}
+.fontawesome-half14:before {
+	content: "\e09a";
+}
+.fontawesome-hand34:before {
+	content: "\e09b";
+}
+.fontawesome-hand35:before {
+	content: "\e09c";
+}
+.fontawesome-hand40:before {
+	content: "\e09d";
+}
+.fontawesome-hdd:before {
+	content: "\e09e";
+}
+.fontawesome-heart74:before {
+	content: "\e09f";
+}
+.fontawesome-heart75:before {
+	content: "\e0a0";
+}
+.fontawesome-horizontal9:before {
+	content: "\e0a1";
+}
+.fontawesome-hostpital:before {
+	content: "\e0a2";
+}
+.fontawesome-hotel17:before {
+	content: "\e0a3";
+}
+.fontawesome-html4:before {
+	content: "\e0a4";
+}
+.fontawesome-inbox12:before {
+	content: "\e0a5";
+}
+.fontawesome-increase:before {
+	content: "\e0a6";
+}
+.fontawesome-indent1:before {
+	content: "\e0a7";
+}
+.fontawesome-information34:before {
+	content: "\e0a8";
+}
+.fontawesome-information35:before {
+	content: "\e0a9";
+}
+.fontawesome-instagram3:before {
+	content: "\e0aa";
+}
+.fontawesome-italicize:before {
+	content: "\e0ab";
+}
+.fontawesome-keyboard13:before {
+	content: "\e0ac";
+}
+.fontawesome-left32:before {
+	content: "\e0ad";
+}
+.fontawesome-legal1:before {
+	content: "\e0ae";
+}
+.fontawesome-lemon3:before {
+	content: "\e0af";
+}
+.fontawesome-leter:before {
+	content: "\e0b0";
+}
+.fontawesome-letter15:before {
+	content: "\e0b1";
+}
+.fontawesome-level:before {
+	content: "\e0b2";
+}
+.fontawesome-light45:before {
+	content: "\e0b3";
+}
+.fontawesome-lightning14:before {
+	content: "\e0b4";
+}
+.fontawesome-link15:before {
+	content: "\e0b5";
+}
+.fontawesome-linkedin10:before {
+	content: "\e0b6";
+}
+.fontawesome-linkedin9:before {
+	content: "\e0b7";
+}
+.fontawesome-linux3:before {
+	content: "\e0b8";
+}
+.fontawesome-list28:before {
+	content: "\e0b9";
+}
+.fontawesome-list29:before {
+	content: "\e0ba";
+}
+.fontawesome-list30:before {
+	content: "\e0bb";
+}
+.fontawesome-listing1:before {
+	content: "\e0bc";
+}
+.fontawesome-location28:before {
+	content: "\e0bd";
+}
+.fontawesome-lock24:before {
+	content: "\e0be";
+}
+.fontawesome-long3:before {
+	content: "\e0bf";
+}
+.fontawesome-long4:before {
+	content: "\e0c0";
+}
+.fontawesome-long5:before {
+	content: "\e0c1";
+}
+.fontawesome-long6:before {
+	content: "\e0c2";
+}
+.fontawesome-magic7:before {
+	content: "\e0c3";
+}
+.fontawesome-male93:before {
+	content: "\e0c4";
+}
+.fontawesome-map25:before {
+	content: "\e0c5";
+}
+.fontawesome-maxcdn:before {
+	content: "\e0c6";
+}
+.fontawesome-medkit:before {
+	content: "\e0c7";
+}
+.fontawesome-meh:before {
+	content: "\e0c8";
+}
+.fontawesome-microphone27:before {
+	content: "\e0c9";
+}
+.fontawesome-microphone28:before {
+	content: "\e0ca";
+}
+.fontawesome-minus18:before {
+	content: "\e0cb";
+}
+.fontawesome-minus19:before {
+	content: "\e0cc";
+}
+.fontawesome-minus20:before {
+	content: "\e0cd";
+}
+.fontawesome-minus21:before {
+	content: "\e0ce";
+}
+.fontawesome-minus22:before {
+	content: "\e0cf";
+}
+.fontawesome-mobile29:before {
+	content: "\e0d0";
+}
+.fontawesome-money10:before {
+	content: "\e0d1";
+}
+.fontawesome-moon18:before {
+	content: "\e0d2";
+}
+.fontawesome-move14:before {
+	content: "\e0d3";
+}
+.fontawesome-music66:before {
+	content: "\e0d4";
+}
+.fontawesome-music67:before {
+	content: "\e0d5";
+}
+.fontawesome-musical32:before {
+	content: "\e0d6";
+}
+.fontawesome-nine10:before {
+	content: "\e0d7";
+}
+.fontawesome-numbered4:before {
+	content: "\e0d8";
+}
+.fontawesome-ok2:before {
+	content: "\e0d9";
+}
+.fontawesome-ok3:before {
+	content: "\e0da";
+}
+.fontawesome-open94:before {
+	content: "\e0db";
+}
+.fontawesome-open95:before {
+	content: "\e0dc";
+}
+.fontawesome-open96:before {
+	content: "\e0dd";
+}
+.fontawesome-open97:before {
+	content: "\e0de";
+}
+.fontawesome-paper47:before {
+	content: "\e0df";
+}
+.fontawesome-paper48:before {
+	content: "\e0e0";
+}
+.fontawesome-paste2:before {
+	content: "\e0e1";
+}
+.fontawesome-pause14:before {
+	content: "\e0e2";
+}
+.fontawesome-pencil30:before {
+	content: "\e0e3";
+}
+.fontawesome-photo33:before {
+	content: "\e0e4";
+}
+.fontawesome-picture13:before {
+	content: "\e0e5";
+}
+.fontawesome-pinterest12:before {
+	content: "\e0e6";
+}
+.fontawesome-pinterest13:before {
+	content: "\e0e7";
+}
+.fontawesome-plane12:before {
+	content: "\e0e8";
+}
+.fontawesome-plant16:before {
+	content: "\e0e9";
+}
+.fontawesome-play39:before {
+	content: "\e0ea";
+}
+.fontawesome-play40:before {
+	content: "\e0eb";
+}
+.fontawesome-play41:before {
+	content: "\e0ec";
+}
+.fontawesome-play42:before {
+	content: "\e0ed";
+}
+.fontawesome-plus25:before {
+	content: "\e0ee";
+}
+.fontawesome-plus26:before {
+	content: "\e0ef";
+}
+.fontawesome-plus27:before {
+	content: "\e0f0";
+}
+.fontawesome-power27:before {
+	content: "\e0f1";
+}
+.fontawesome-printing1:before {
+	content: "\e0f2";
+}
+.fontawesome-puzzle12:before {
+	content: "\e0f3";
+}
+.fontawesome-qr2:before {
+	content: "\e0f4";
+}
+.fontawesome-question22:before {
+	content: "\e0f5";
+}
+.fontawesome-question23:before {
+	content: "\e0f6";
+}
+.fontawesome-quote2:before {
+	content: "\e0f7";
+}
+.fontawesome-reduced:before {
+	content: "\e0f8";
+}
+.fontawesome-refresh36:before {
+	content: "\e0f9";
+}
+.fontawesome-refresh37:before {
+	content: "\e0fa";
+}
+.fontawesome-remove10:before {
+	content: "\e0fb";
+}
+.fontawesome-remove11:before {
+	content: "\e0fc";
+}
+.fontawesome-renren:before {
+	content: "\e0fd";
+}
+.fontawesome-reorder:before {
+	content: "\e0fe";
+}
+.fontawesome-reply8:before {
+	content: "\e0ff";
+}
+.fontawesome-reply9:before {
+	content: "\e100";
+}
+.fontawesome-resize4:before {
+	content: "\e101";
+}
+.fontawesome-retweet2:before {
+	content: "\e102";
+}
+.fontawesome-rewind25:before {
+	content: "\e103";
+}
+.fontawesome-right28:before {
+	content: "\e104";
+}
+.fontawesome-right29:before {
+	content: "\e105";
+}
+.fontawesome-road16:before {
+	content: "\e106";
+}
+.fontawesome-rounded30:before {
+	content: "\e107";
+}
+.fontawesome-rss25:before {
+	content: "\e108";
+}
+.fontawesome-rss26:before {
+	content: "\e109";
+}
+.fontawesome-rupee1:before {
+	content: "\e10a";
+}
+.fontawesome-save8:before {
+	content: "\e10b";
+}
+.fontawesome-screenshot:before {
+	content: "\e10c";
+}
+.fontawesome-search19:before {
+	content: "\e10d";
+}
+.fontawesome-share13:before {
+	content: "\e10e";
+}
+.fontawesome-share14:before {
+	content: "\e10f";
+}
+.fontawesome-share15:before {
+	content: "\e110";
+}
+.fontawesome-shield36:before {
+	content: "\e111";
+}
+.fontawesome-shopping69:before {
+	content: "\e112";
+}
+.fontawesome-sign3:before {
+	content: "\e113";
+}
+.fontawesome-sign4:before {
+	content: "\e114";
+}
+.fontawesome-signal22:before {
+	content: "\e115";
+}
+.fontawesome-sitemap1:before {
+	content: "\e116";
+}
+.fontawesome-skype9:before {
+	content: "\e117";
+}
+.fontawesome-small143:before {
+	content: "\e118";
+}
+.fontawesome-small144:before {
+	content: "\e119";
+}
+.fontawesome-smile:before {
+	content: "\e11a";
+}
+.fontawesome-sort10:before {
+	content: "\e11b";
+}
+.fontawesome-sort11:before {
+	content: "\e11c";
+}
+.fontawesome-sort12:before {
+	content: "\e11d";
+}
+.fontawesome-sort13:before {
+	content: "\e11e";
+}
+.fontawesome-sort14:before {
+	content: "\e11f";
+}
+.fontawesome-sort6:before {
+	content: "\e120";
+}
+.fontawesome-sort7:before {
+	content: "\e121";
+}
+.fontawesome-sort8:before {
+	content: "\e122";
+}
+.fontawesome-sort9:before {
+	content: "\e123";
+}
+.fontawesome-speech59:before {
+	content: "\e124";
+}
+.fontawesome-spinner8:before {
+	content: "\e125";
+}
+.fontawesome-square62:before {
+	content: "\e126";
+}
+.fontawesome-stack10:before {
+	content: "\e127";
+}
+.fontawesome-stack11:before {
+	content: "\e128";
+}
+.fontawesome-star60:before {
+	content: "\e129";
+}
+.fontawesome-star61:before {
+	content: "\e12a";
+}
+.fontawesome-star62:before {
+	content: "\e12b";
+}
+.fontawesome-step1:before {
+	content: "\e12c";
+}
+.fontawesome-step:before {
+	content: "\e12d";
+}
+.fontawesome-stethoscope6:before {
+	content: "\e12e";
+}
+.fontawesome-strikethrough1:before {
+	content: "\e12f";
+}
+.fontawesome-suitcase24:before {
+	content: "\e130";
+}
+.fontawesome-sun32:before {
+	content: "\e131";
+}
+.fontawesome-superscript:before {
+	content: "\e132";
+}
+.fontawesome-table21:before {
+	content: "\e133";
+}
+.fontawesome-tag32:before {
+	content: "\e134";
+}
+.fontawesome-tags2:before {
+	content: "\e135";
+}
+.fontawesome-tasks:before {
+	content: "\e136";
+}
+.fontawesome-telephone65:before {
+	content: "\e137";
+}
+.fontawesome-telephone66:before {
+	content: "\e138";
+}
+.fontawesome-terminal7:before {
+	content: "\e139";
+}
+.fontawesome-text59:before {
+	content: "\e13a";
+}
+.fontawesome-text60:before {
+	content: "\e13b";
+}
+.fontawesome-text61:before {
+	content: "\e13c";
+}
+.fontawesome-text62:before {
+	content: "\e13d";
+}
+.fontawesome-thin24:before {
+	content: "\e13e";
+}
+.fontawesome-thumbs25:before {
+	content: "\e13f";
+}
+.fontawesome-thumbs26:before {
+	content: "\e140";
+}
+.fontawesome-thumbs27:before {
+	content: "\e141";
+}
+.fontawesome-thumbs28:before {
+	content: "\e142";
+}
+.fontawesome-ticket6:before {
+	content: "\e143";
+}
+.fontawesome-time7:before {
+	content: "\e144";
+}
+.fontawesome-tint:before {
+	content: "\e145";
+}
+.fontawesome-trash29:before {
+	content: "\e146";
+}
+.fontawesome-trello:before {
+	content: "\e147";
+}
+.fontawesome-trophy3:before {
+	content: "\e148";
+}
+.fontawesome-tumblr10:before {
+	content: "\e149";
+}
+.fontawesome-tumblr11:before {
+	content: "\e14a";
+}
+.fontawesome-turkish1:before {
+	content: "\e14b";
+}
+.fontawesome-twitter15:before {
+	content: "\e14c";
+}
+.fontawesome-twitter16:before {
+	content: "\e14d";
+}
+.fontawesome-two121:before {
+	content: "\e14e";
+}
+.fontawesome-u1:before {
+	content: "\e14f";
+}
+.fontawesome-umbrella16:before {
+	content: "\e150";
+}
+.fontawesome-underline2:before {
+	content: "\e151";
+}
+.fontawesome-undo5:before {
+	content: "\e152";
+}
+.fontawesome-unlink:before {
+	content: "\e153";
+}
+.fontawesome-unlock3:before {
+	content: "\e154";
+}
+.fontawesome-upload39:before {
+	content: "\e155";
+}
+.fontawesome-upload40:before {
+	content: "\e156";
+}
+.fontawesome-usd:before {
+	content: "\e157";
+}
+.fontawesome-user77:before {
+	content: "\e158";
+}
+.fontawesome-user78:before {
+	content: "\e159";
+}
+.fontawesome-vertical5:before {
+	content: "\e15a";
+}
+.fontawesome-vertical6:before {
+	content: "\e15b";
+}
+.fontawesome-video91:before {
+	content: "\e15c";
+}
+.fontawesome-vimeo10:before {
+	content: "\e15d";
+}
+.fontawesome-vintage27:before {
+	content: "\e15e";
+}
+.fontawesome-vk:before {
+	content: "\e15f";
+}
+.fontawesome-volume28:before {
+	content: "\e160";
+}
+.fontawesome-volume29:before {
+	content: "\e161";
+}
+.fontawesome-warning18:before {
+	content: "\e162";
+}
+.fontawesome-weibo:before {
+	content: "\e163";
+}
+.fontawesome-wheelchair2:before {
+	content: "\e164";
+}
+.fontawesome-white66:before {
+	content: "\e165";
+}
+.fontawesome-windows20:before {
+	content: "\e166";
+}
+.fontawesome-x21:before {
+	content: "\e167";
+}
+.fontawesome-xing4:before {
+	content: "\e168";
+}
+.fontawesome-xing5:before {
+	content: "\e169";
+}
+.fontawesome-yen18:before {
+	content: "\e16a";
+}
+.fontawesome-youtube13:before {
+	content: "\e16b";
+}
+.fontawesome-youtube14:before {
+	content: "\e16c";
+}
+.fontawesome-youtube15:before {
+	content: "\e16d";
+}
+.fontawesome-zoom27:before {
+	content: "\e16e";
+}
+.fontawesome-zoom28:before {
+	content: "\e16f";
+}

@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Menu\n"
+"POT-Creation-Date: 2017-02-28 14:35+0700\n"
+"PO-Revision-Date: 2017-02-28 14:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: translate;__;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"Language: id_ID\n"
+"X-Poedit-SearchPath-0: ../dt_menu\n"
+"X-Poedit-SearchPathExcluded-0: ../dt_menu/sidemenu/script.js\n"
+
+#: ../dt_menu/dt_menu.php:53
+msgid "Side Menu Overlay"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:54
+msgid "Push Menu Overlay"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:55
+msgid "Stack Menu Overlay"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:56
+msgid "Center Menu Overlay"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:66
+msgid "Overlay"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:71
+msgid "Logo"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:73
+msgid "Select the logo that will be displayed at homepage"
+msgstr "Pilih logo yang akan ditampilkan di homepage"
+
+#: ../dt_menu/dt_menu.php:79
+msgid "Background Color"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:80
+msgid "Select Overlay Background Color"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:88
+msgid "Navigation Bar Font Color"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:89
+msgid "Select the font color for the navigation bar"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:536 ../dt_menu/dt_menu.php:538
+msgid "Menu Overlay Widget Area"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:616
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:616 ../dt_menu/mobile_walker.php:29
+#: ../dt_menu/mobile_walker.php:137
+msgid "Back"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:628 ../dt_menu/dt_menu.php:718
+#: ../dt_menu/dt_menu.php:805 ../dt_menu/dt_menu.php:920
+#: ../dt_menu/dt_menu.php:1010
+msgid "Search"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:640
+msgid "Close"
+msgstr ""
+
+#: ../dt_menu/dt_menu.php:826
+msgid "Menu"
+msgstr ""

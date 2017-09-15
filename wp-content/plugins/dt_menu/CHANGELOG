@@ -1,0 +1,11 @@
+ver 1.0.3
+=========
+
+- [FIXED} Center Menu Overlay text hover color issue
+
+ver 1.0.4
+=========
+- [FIXED} Logo, Logo Sticky, Home Logo, Home Logo Sticky, Logo Overlay issues
+- [UPDATED] Make searchform visible on mobile
+- [UPDATED] HTML Validation for attribute “width” on element “img”
+- [FIXED} Menu search top position

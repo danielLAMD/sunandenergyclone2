@@ -1,0 +1,1588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hue\n"
+"POT-Creation-Date: 2017-02-28 14:26+0700\n"
+"PO-Revision-Date: 2017-02-28 14:29+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: translate;__;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;"
+"esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural\n"
+"Language: id_ID\n"
+"X-Poedit-SearchPath-0: ../hue\n"
+"X-Poedit-SearchPathExcluded-0: ../hue/bootstrap\n"
+"X-Poedit-SearchPathExcluded-1: ../hue/js\n"
+"X-Poedit-SearchPathExcluded-2: ../hue/redux-framework\n"
+
+#: ../hue/404.php:44
+msgid "Sorry, this page isn't available"
+msgstr "Maaf halaman ini tidak tersedia"
+
+#: ../hue/404.php:45
+msgid "The link you followed is probably broken, or the page has been removed"
+msgstr ""
+
+#: ../hue/404.php:46
+msgid "BACK TO HOMEPAGE"
+msgstr ""
+
+#: ../hue/comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: ../hue/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../hue/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../hue/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:67 ../hue/detheme-career/dtcareer.php:86
+#: ../hue/detheme-career/dtcareer.php:153
+#: ../hue/detheme-career/dtcareer.php:155
+msgid "Apply Now"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:70
+#: ../hue/detheme-career/dtcareer.php:107
+msgid "Full Name"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:71
+#: ../hue/detheme-career/dtcareer.php:108
+msgid "e.g. John Smith"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:74
+#: ../hue/detheme-career/dtcareer.php:111
+msgid "Email"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:75
+#: ../hue/detheme-career/dtcareer.php:112
+msgid "e.g. john.smith@hotmail.com"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:78
+msgid "Covering Note"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:82
+msgid "Upload CV"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:84
+#, php-format
+msgid "Maximum file size %.2fMb"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:104
+#: ../hue/detheme-career/dtcareer.php:153
+#: ../hue/detheme-career/dtcareer.php:155
+msgid "Email To a Friend"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:115
+msgid "Friend Email"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:116
+msgid "e.g. alice@hotmail.com"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:119
+msgid "Quick Note"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:121
+msgid ""
+"Type a quick message directed to your friend. Please avoid content that "
+"could be considered as spam as this could result in a ban from the site."
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:123
+msgid "Send Message"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:132
+msgid "Jobs Description"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:138
+msgid "Job Position"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:145
+msgid "Posted"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:146
+msgid "Start Date"
+msgstr ""
+
+#: ../hue/detheme-career/dtcareer.php:147
+msgid "End Date"
+msgstr ""
+
+#: ../hue/detheme-post/postaboutcomment.php:7
+#: ../hue/essential_grid/postaboutcomment.php:16 ../hue/fullwidth.php:52
+#: ../hue/page.php:61 ../hue/pagetemplates/postaboutcomment.php:34
+#: ../hue/pagetemplates/postmetabottom.php:26
+#: ../hue/pagetemplates/postmetabottom_detail.php:20 ../hue/squeeze.php:60
+#: ../hue/woocommerce-page.php:58
+msgid "No Comments"
+msgstr ""
+
+#: ../hue/detheme-post/postaboutcomment.php:7
+#: ../hue/essential_grid/postaboutcomment.php:16 ../hue/fullwidth.php:52
+#: ../hue/page.php:61 ../hue/pagetemplates/postaboutcomment.php:34
+#: ../hue/pagetemplates/postmetabottom.php:26
+#: ../hue/pagetemplates/postmetabottom_detail.php:20 ../hue/squeeze.php:60
+#: ../hue/woocommerce-page.php:58
+msgid "1 Comment"
+msgstr ""
+
+#: ../hue/detheme-post/postaboutcomment.php:7
+#: ../hue/essential_grid/postaboutcomment.php:16 ../hue/fullwidth.php:52
+#: ../hue/page.php:61 ../hue/pagetemplates/postaboutcomment.php:34
+#: ../hue/pagetemplates/postmetabottom.php:26
+#: ../hue/pagetemplates/postmetabottom_detail.php:20 ../hue/squeeze.php:60
+#: ../hue/woocommerce-page.php:58
+msgid "% Comments"
+msgstr ""
+
+#: ../hue/functions.php:15
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: ../hue/functions.php:21
+msgid "Hue Visual Composer Add On"
+msgstr ""
+
+#: ../hue/functions.php:27
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../hue/functions.php:32
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: ../hue/functions.php:37
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../hue/functions.php:43
+msgid "Hue Icon Font - Add-on"
+msgstr ""
+
+#: ../hue/functions.php:49
+msgid "Detheme Custom Post"
+msgstr ""
+
+#: ../hue/functions.php:55
+msgid "Essential_Grid"
+msgstr ""
+
+#: ../hue/functions.php:61
+msgid "Detheme Menu"
+msgstr ""
+
+#: ../hue/functions.php:118
+msgid "Top Navigation"
+msgstr ""
+
+#: ../hue/functions.php:123 ../hue/functions.php:125
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: ../hue/functions.php:133 ../hue/functions.php:135
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: ../hue/functions.php:144 ../hue/functions.php:146
+msgid "Sticky Widget Area"
+msgstr ""
+
+#: ../hue/functions.php:157
+msgid "Shop Sidebar Widget Area"
+msgstr ""
+
+#: ../hue/functions.php:159
+msgid "Sidebar will display on woocommerce page only"
+msgstr ""
+
+#: ../hue/functions.php:334
+msgid "on"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:152
+msgid "Page Atribute"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:152
+msgid "Page Attribute"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:333 ../hue/lib/custom_functions.php:359
+#: ../hue/lib/custom_functions.php:2193 ../hue/lib/custom_functions.php:2211
+#: ../hue/pagetemplates/mainmenu.php:29 ../hue/pagetemplates/mainmenu.php:140
+#: ../hue/pagetemplates/mainmenu.php:214 ../hue/pagetemplates/mainmenu.php:232
+msgid "Back"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:453
+msgid "full name"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:457
+msgid "email address"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:461
+msgid "website"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:466
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:471
+msgid "your message"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:474
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:475
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:476
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:480
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:481
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:482
+msgid "Cancel reply"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:483
+msgid "Submit"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:550 ../hue/lib/custom_functions.php:646
+msgid "Reply"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:551
+msgid "Log in to Reply"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:601
+msgid "Edit This"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:627
+msgid "Pingback:"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:627
+msgid "(Edit)"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:647
+msgid "Edit"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:664 ../hue/lib/custom_functions.php:666
+#, php-format
+msgid "%d View"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:670
+msgid "% Views"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:704
+msgid "Views"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1015
+msgid ""
+"Select for which content types Visual Composer should be available during "
+"post creation/editing."
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1020
+msgid "Content types"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1045
+msgid "Custom query"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1046
+msgid "List of IDs"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1050
+msgid "Data source"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1053
+msgid "Select content type for your grid."
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1068 ../hue/lib/custom_functions.php:1081
+#: ../hue/lib/shortcode_panel.php:153
+msgid "Button style"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1071 ../hue/lib/shortcode_panel.php:112
+#: ../hue/lib/shortcode_panel.php:249
+msgid "Primary"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1072 ../hue/lib/shortcode_panel.php:113
+#: ../hue/lib/shortcode_panel.php:250
+msgid "Secondary"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1073
+msgid "Success"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1074
+msgid "Info"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1075
+msgid "Warning"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1076
+msgid "Danger"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1077 ../hue/lib/shortcode_panel.php:120
+msgid "Ghost Button"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1078 ../hue/lib/shortcode_panel.php:121
+msgid "Link"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1087
+msgid "Size"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1090 ../hue/lib/shortcode_panel.php:127
+#: ../hue/lib/shortcode_panel.php:223
+msgid "Large"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1091 ../hue/lib/custom_functions.php:1295
+#: ../hue/lib/custom_functions.php:1310 ../hue/lib/metaboxes.php:210
+#: ../hue/lib/metaboxes.php:282 ../hue/lib/shortcode_panel.php:128
+#: ../hue/lib/shortcode_panel.php:220 ../hue/lib/shortcode_panel.php:248
+msgid "Default"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1092 ../hue/lib/fonts.php:14
+#: ../hue/lib/shortcode_panel.php:129 ../hue/lib/shortcode_panel.php:221
+msgid "Small"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1093 ../hue/lib/shortcode_panel.php:130
+msgid "Extra small"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1096 ../hue/lib/shortcode_panel.php:171
+msgid "Button size"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1111
+msgid "Expand section width"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1114
+msgid "Expand Column"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1114
+msgid "Expand Background"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1115
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1117 ../hue/lib/custom_functions.php:1126
+#: ../hue/lib/custom_functions.php:1150 ../hue/lib/custom_functions.php:1160
+#: ../hue/lib/custom_functions.php:1168 ../hue/lib/custom_functions.php:1176
+#: ../hue/lib/custom_functions.php:1185 ../hue/lib/custom_functions.php:1199
+#: ../hue/lib/custom_functions.php:1207 ../hue/lib/custom_functions.php:1215
+#: ../hue/lib/custom_functions.php:1249 ../hue/lib/custom_functions.php:1270
+#: ../hue/lib/custom_functions.php:1286 ../hue/lib/custom_functions.php:1301
+#: ../hue/lib/custom_functions.php:1343 ../hue/lib/custom_functions.php:1351
+msgid "Extended options"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1122
+msgid "Background Type"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1124 ../hue/lib/custom_functions.php:1267
+#: ../hue/lib/custom_functions.php:1280
+msgid "Image"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1124
+msgid "Video"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1146
+msgid "Video Source"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1148
+msgid "Local Server"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1148
+msgid "Youtube/Vimeo"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1157 ../hue/lib/custom_functions.php:1196
+msgid "Background Video (mp4)"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1165 ../hue/lib/custom_functions.php:1204
+msgid "Background Video (webm)"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1173 ../hue/lib/custom_functions.php:1212
+#: ../hue/lib/metaboxes.php:273
+msgid "Background Image"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1183
+msgid "Video link"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1186
+msgid "Add YouTube/Vimeo link"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1223 ../hue/lib/custom_functions.php:1231
+msgid "Extra id"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1226 ../hue/lib/custom_functions.php:1234
+msgid ""
+"If you wish to add anchor id to this row. Anchor id may used as link like "
+"href=\"#yourid\""
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1238 ../hue/lib/metaboxes.php:280
+msgid "Background Style"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1242 ../hue/lib/metaboxes.php:259
+msgid "No Repeat"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1243 ../hue/lib/metaboxes.php:256
+msgid "Cover"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1244 ../hue/lib/metaboxes.php:258
+msgid "Contain"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1245 ../hue/lib/metaboxes.php:260
+msgid "Repeat"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1246 ../hue/lib/metaboxes.php:261
+msgid "Parallax"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1247 ../hue/lib/metaboxes.php:263
+msgid "Fixed"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1262
+msgid "Image Hover Option"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1266 ../hue/lib/shortcode_panel.php:256
+msgid "None"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1268
+msgid "Text"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1291
+msgid "Animation Style"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1296
+msgid "From Left"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1297
+msgid "From Right"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1298
+msgid "From Top"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1299
+msgid "From Bottom"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1306
+msgid "Image style"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1311 ../hue/lib/shortcode_panel.php:123
+msgid "Rounded"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1312
+msgid "Border"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1313
+msgid "Outline"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1314
+msgid "Shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1315
+msgid "Bordered shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1316
+msgid "3D Shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1317
+msgid "Round"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1318
+msgid "Round Border"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1319
+msgid "Round Outline"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1320
+msgid "Round Shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1321
+msgid "Round Border Shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1322 ../hue/lib/shortcode_panel.php:257
+msgid "Circle"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1323
+msgid "Circle Border"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1324
+msgid "Circle Outline"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1325
+msgid "Circle Shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1326
+msgid "Circle Border Shadow"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1327
+msgid "Diamond"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1339
+msgid "Pre Title"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1347
+msgid "Title"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1368 ../hue/lib/custom_functions.php:1370
+#: ../hue/lib/custom_functions.php:1377 ../hue/lib/custom_functions.php:1394
+msgid "Search for:"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1370 ../hue/lib/custom_functions.php:1379
+msgid "To search type and hit enter"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1372 ../hue/lib/custom_functions.php:1380
+#: ../hue/lib/custom_functions.php:1397 ../hue/lib/page-options.php:150
+#: ../hue/pagetemplates/mainmenu.php:248
+msgid "Search"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1396
+msgid "Search for products"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1657
+msgid "Ess. Grid Posts"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1657
+msgid "Ess. Grid Post"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1700
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1707
+msgid "Label Name"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1712
+msgid "Singular Name"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1717
+msgid "Rewrite Slug"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1724
+msgid "Save Changes"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1730
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:1884 ../hue/pagetemplates/banner.php:18
+msgid "Home"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2101
+msgid "Product Display Columns"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2102
+msgid "This controls num column product display"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2109
+msgid "Two Columns"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2110
+msgid "Three Columns"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2111
+msgid "Four Columns"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2112
+msgid "Five Columns"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2193 ../hue/lib/custom_functions.php:2211
+#: ../hue/pagetemplates/mainmenu.php:214 ../hue/pagetemplates/mainmenu.php:232
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2289
+msgid "Next page"
+msgstr ""
+
+#: ../hue/lib/custom_functions.php:2290
+msgid "Previous page"
+msgstr ""
+
+#: ../hue/lib/customcodes.string.php:6
+msgid "Insert Hue Shortcode"
+msgstr ""
+
+#: ../hue/lib/customcodes.string.php:7
+msgid "Hue Shortcode"
+msgstr ""
+
+#: ../hue/lib/customcodes.string.php:8 ../hue/lib/shortcode_panel.php:264
+msgid "Icon"
+msgstr ""
+
+#: ../hue/lib/customcodes.string.php:9
+msgid "Buttons"
+msgstr ""
+
+#: ../hue/lib/customcodes.string.php:10
+msgid "Count To"
+msgstr ""
+
+#: ../hue/lib/fonts.php:14
+msgid "Bigger"
+msgstr ""
+
+#: ../hue/lib/fonts.php:14
+msgid "Big"
+msgstr ""
+
+#: ../hue/lib/fonts.php:14
+msgid "Smaller"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:65 ../hue/lib/metaboxes.php:85
+#: ../hue/lib/metaboxes.php:86 ../hue/lib/metaboxes.php:87
+#: ../hue/lib/metaboxes.php:88
+msgid "Page Attributes"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:119
+msgid "(no parent)"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:128 ../hue/lib/metaboxes.php:129
+msgid "Parent"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:144
+msgid "Hide title"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:147
+msgid "Hide banner"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:172
+msgid "Disable Page Loader"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:185
+msgid "Left"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:185
+msgid "Right"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:185
+msgid "No Sidebar"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:189
+msgid "Template"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:190
+msgid "Page Template"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:191
+msgid "Default Template"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:208
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:218 ../hue/lib/metaboxes.php:219
+msgid "Order"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:220
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:257
+msgid "Cover All"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:262
+msgid "Parallax All"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:276
+msgid "Set background image"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:278
+msgid "Remove background image"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:326
+msgid "Banner"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:329
+msgid "Set Page Banner"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:329
+msgid "Select Banner"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:329
+msgid "Insert Banner"
+msgstr ""
+
+#: ../hue/lib/metaboxes.php:331
+msgid "Remove Page Banner"
+msgstr ""
+
+#: ../hue/lib/page-options.php:94
+#, php-format
+msgid "Category : %s"
+msgstr ""
+
+#: ../hue/lib/page-options.php:100
+#, php-format
+msgid "Tag : %s"
+msgstr ""
+
+#: ../hue/lib/page-options.php:142
+#, php-format
+msgid "%s : Archive"
+msgstr ""
+
+#: ../hue/lib/page-options.php:142
+#, php-format
+msgid "Archive : %s"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:84
+msgid "Search Icon"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:122
+msgid "Underlined"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:137
+msgid "Button URL"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:139
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:143
+msgid "Button skin"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:146
+msgid "Dark (default)"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:147
+msgid "Light"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:149
+msgid "Select the button's skin"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:167
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:186
+msgid "Button Target"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:188
+msgid "Self"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:189
+msgid "Blank"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:190
+msgid "Select the button's target"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:193
+msgid "Button Text"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:195
+msgid "Select the button's text"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:205
+msgid "Number"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:207
+msgid "The value must be numeric"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:210
+msgid "Separator Color"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:222
+msgid "Medium"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:230
+msgid "Icon Size"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:243
+msgid "Select the button's size"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:246
+msgid "Icon Color"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:251
+msgid "Select the button's color"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:254
+msgid "Icon Style"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:258
+msgid "Square"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:259
+msgid "Ghost"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:260
+msgid "Select the button's style"
+msgstr ""
+
+#: ../hue/lib/shortcode_panel.php:287
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:393
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:916
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2622
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:394
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3248
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:395
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3041
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:1023
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:1026
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:1026
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:1210
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3037
+msgid "and"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2071
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2362
+msgid "Required"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2365
+msgid "Recommended"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2381
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2384
+msgid "External Source"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2387
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2404
+msgid "Not Installed"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2408
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2410
+msgid "Active"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2416
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2419
+msgid "Requires Update"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2422
+msgid "Update recommended"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2431
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2571
+msgid "unknown"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2579
+msgid "Installed version:"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2587
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2599
+msgid "Available version:"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2622
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2636
+msgid "Plugin"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2637
+msgid "Source"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2638
+msgid "Type"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2642
+msgid "Version"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2643
+msgid "Status"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2692
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2773
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2806
+msgid "Install"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2812
+msgid "Update"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2815
+msgid "Activate"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2846
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2889
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:2997
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3023
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3247
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3596
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3598
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3606
+msgid "Show Details"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3598
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3606
+msgid "Hide Details"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3599
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3601
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3604
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3607
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../hue/lib/tgm/class-tgm-plugin-activation.php:3609
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../hue/lib/webicon.php:181
+msgid "On"
+msgstr ""
+
+#: ../hue/lib/webicon.php:182
+msgid "Off"
+msgstr ""
+
+#: ../hue/lib/webicon.php:198
+msgid "Icon Settings"
+msgstr ""
+
+#: ../hue/lib/widgets.php:6
+msgid "Display popular posts, recent posts, and recent comments in Tabulation."
+msgstr ""
+
+#: ../hue/lib/widgets.php:7
+msgid "DT Tabs"
+msgstr ""
+
+#: ../hue/lib/widgets.php:22
+msgid "Recent Posts"
+msgstr ""
+
+#: ../hue/lib/widgets.php:31
+msgid "Popular"
+msgstr ""
+
+#: ../hue/lib/widgets.php:32
+msgid "Recent"
+msgstr ""
+
+#: ../hue/lib/widgets.php:33
+msgid "Comments"
+msgstr ""
+
+#: ../hue/lib/widgets.php:239 ../hue/lib/widgets.php:334
+msgid "Title:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:241
+msgid "Number of posts/comments to show:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:255
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../hue/lib/widgets.php:266
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../hue/lib/widgets.php:318
+msgid "Display information in accordion style."
+msgstr ""
+
+#: ../hue/lib/widgets.php:319
+msgid "DT Accordion"
+msgstr ""
+
+#: ../hue/lib/widgets.php:336
+msgid "Accordion Title 1:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:338
+msgid "Accordion Description 1:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:340
+msgid "Accordion Title 2:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:342
+msgid "Accordion Description 2:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:344
+msgid "Accordion Title 3:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:346
+msgid "Accordion Description 3:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:348
+msgid "Accordion Title 4:"
+msgstr ""
+
+#: ../hue/lib/widgets.php:350
+msgid "Accordion Description 4:"
+msgstr ""
+
+#: ../hue/masonry-audio.php:95 ../hue/masonry-gallery.php:117
+#: ../hue/masonry-video.php:133
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../hue/masonry-audio.php:119 ../hue/masonry-audio.php:123
+#: ../hue/masonry-gallery.php:140 ../hue/masonry-gallery.php:144
+#: ../hue/masonry-video.php:156 ../hue/masonry-video.php:160
+#: ../hue/masonry.php:75 ../hue/masonry.php:79
+#: ../hue/pagetemplates/postmetabottom.php:11
+#: ../hue/pagetemplates/postmetabottom.php:15
+msgid "Read More"
+msgstr ""
+
+#: ../hue/masonry.php:51
+msgid "By "
+msgstr ""
+
+#: ../hue/masonry.php:52
+msgid "/ "
+msgstr ""
+
+#: ../hue/pagetemplates/mainmenu.php:310
+msgid "Close"
+msgstr ""
+
+#: ../hue/pagetemplates/postaboutcomment.php:23
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../hue/pagetemplates/social-share.php:9
+#: ../hue/pagetemplates/social-share.php:11
+msgid "Share"
+msgstr ""
+
+#: ../hue/search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../hue/vc_templates/vc_cta_button2.php:12
+msgid "Text on the button"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s Review"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/related.php:56
+msgid "Related Products"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/review.php:48
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/review.php:57
+msgid "verified owner"
+msgstr ""
+
+#: ../hue/woocommerce/single-product/up-sells.php:59
+msgid "You may also like&hellip;"
+msgstr ""

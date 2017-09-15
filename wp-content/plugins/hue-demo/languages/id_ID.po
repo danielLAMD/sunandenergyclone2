@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefy WP\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2016-09-22 09:57+0700\n"
+"PO-Revision-Date: 2016-11-28 16:14+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme.com <support@detheme.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: themes\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: languages\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+
+#: demo.php:313 demo.php:327
+msgid "Sorry, there has been an error."
+msgstr "Maaf, terjadi kesalahan."
+
+#: demo.php:314
+msgid "The file does not exist, please try again."
+msgstr "File tidak ada, silahkan ulangi lagi."
+
+#: demo.php:376
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Gagal menyertakan kategori %s"
+
+#: demo.php:413
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Gagal menyertakan tag %s"
+
+#: demo.php:468 demo.php:623
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Gagal menyertakan %s %s"
+
+#: demo.php:492
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Gagal menyertakan &#8220;%s&#8221;: Tipe post %s tidak cocok"
+
+#: demo.php:516
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; sudah terpasang."
+
+#: demo.php:585
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Gagal menyertakan %s &#8220;%s&#8221;"
+
+#: demo.php:756
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menu dilewati karena ketidak sesuaian slug"
+
+#: demo.php:763
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menu dilewati karena ketidak sesuaian slug: %s"
+
+#: demo.php:903
+msgid "Invalid file type"
+msgstr "Tipe file tidak sesuai"
+
+#: demo.php:959
+msgid "Remote server did not respond"
+msgstr "Server tujuan tidak merespon"
+
+#: demo.php:964
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Server tujuan menjawab dengan galat %1$d %2$s"
+
+#: demo.php:971
+msgid "Remote file is incorrect size"
+msgstr "File tujuan tidak sesuai ukurannya"
+
+#: demo.php:976
+msgid "Zero size file downloaded"
+msgstr "File yang diunduh ukuran nol"
+
+#: demo.php:982
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "File tujuan terlalu besar, dibatasi %s"
+
+#: demo.php:1139
+msgid "Detheme One Click Demo Importer"
+msgstr "Detheme  sekali klik pasang demo"
+
+#: demo.php:1139
+msgid "Import Demo"
+msgstr "Impor Demo"
+
+#: demo.php:1157
+msgid "Detheme Demo Importer"
+msgstr "Importer Demo Detheme"
+
+#: demo.php:1168
+msgid "import demo content complete"
+msgstr "pemasangan konten demo telah lengkap"
+
+#: demo.php:1172
+msgid "Return to Import Demo"
+msgstr "Kembali ke Pemasangan Demo"
+
+#: demo.php:1178
+msgid "WARNING:"
+msgstr "AWAS:"
+
+#: demo.php:1180
+msgid "Recommended for fresh install only"
+msgstr "Direkomendasikan hanya untuk instalasi baru"
+
+#: demo.php:1242
+msgid "Import Options"
+msgstr "Opsi Pemasangan"
+
+#: demo.php:1244
+msgid "Skip content"
+msgstr "Lewati konten"
+
+#: demo.php:1245
+msgid "Skip menu"
+msgstr "Lewati menu"
+
+#: demo.php:1246
+msgid "Skip theme option"
+msgstr "Lewati ubah sesuaian tema"
+
+#: demo.php:1247
+msgid "Skip sidebar widget"
+msgstr "Lewati widget"
+
+#: demo.php:1248
+msgid "Skip media"
+msgstr "Lewati file media"
+
+#: demo.php:1250
+msgid "Skip revolution slider demo"
+msgstr "Lewati slide revolution slider"
+
+#: demo.php:1253
+msgid "Skip layer slider demo"
+msgstr "Lewati slide layer slider"
+
+#: demo.php:1256
+msgid "Skip Ess. Grid"
+msgstr ""
+
+#: demo.php:1259
+msgid "Skip woocommerce demo"
+msgstr "Lewati konten woocommerce"
+
+#: demo.php:1262
+msgid "Install Demo"
+msgstr "Pasang Demo"
+
+#: demo.php:1266
+msgid "Demo package not found"
+msgstr "Halaman tidak ditemukan"
+
+#: demo.php:1309
+msgid "General"
+msgstr "Umum"
+
+#: demo.php:1421
+#, php-format
+msgid "Failed to import slide %s"
+msgstr "Gagal menyertakan slide %s"
+
+#: demo.php:1460
+#, php-format
+msgid "Failed to import slide %s: %s"
+msgstr "Gagal menyertakan slide %s: %s"
+
+#: parsers.php:43 parsers.php:76 parsers.php:84
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: parsers.php:88 parsers.php:93 parsers.php:292 parsers.php:487
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: revslider_importer.php:103
+msgid "animations imported!"
+msgstr ""
+
+#: revslider_importer.php:153
+msgid "dynamic styles imported!"
+msgstr ""
+
+#~ msgid "Demo Install"
+#~ msgstr "Pasang Materi Demo"
+
+#~ msgid "import demo content incomplete"
+#~ msgstr "pemasangan konten demo tidak lengkap"
+
+#~ msgid "Add New"
+#~ msgstr "Tambah Portofolio"
+
+#~ msgid "Portfolio Category"
+#~ msgstr "Kategori Portofolio"
+
+#~ msgid "Icon Box"
+#~ msgstr "Kotak Ikon"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "The icon you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Layout type"
+#~ msgstr "Tipe Tampilan"
+
+#~ msgid "Type 1: Squared Border Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "The icon layout you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Color Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Iconbox text"
+#~ msgstr "Kotak Ikon"
+
+#, fuzzy
+#~ msgid "Section Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Type 2: No Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Pre Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Main Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Sub  Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Line type"
+#~ msgstr "Tipe Tampilan"
+
+#, fuzzy
+#~ msgid "Package Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Package Detail"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "The icon you want as pagination"
+#~ msgstr "Pilih ikon yang akan ditampilkan"
